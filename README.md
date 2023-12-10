@@ -1,7 +1,8 @@
-# Botrax - Your little helper for Freewar
+# Botrax - Your little helper for Freewar.de
 
 ## Intro
-Created and intented for educational purposes only.
+Botrax is a bot for the Browsergame [Freewar.de](https://freewar.de). It was created for educational purposes only.
+
 
 ## Usage
 - Clone the repository
