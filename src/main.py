@@ -9,8 +9,6 @@ from bot import Bot
 
 
 def __get_arguments():
-    # init variables
-    show_gui = True
     # parse argumtens
     parser = argparse.ArgumentParser()
     parser.add_argument("--c")
@@ -20,14 +18,11 @@ def __get_arguments():
     # parse the argument values
     if args.c:
         config.CONF_FILE = args.c
-    if "nogui" in args.modes:
-        show_gui = False
     if "nomove" in args.modes:
         config.AUTOMOVE = False
     if "dev" in args.modes:
         config.DEVELOPER_MODE = True
-    # return results
-    return show_gui
+
 
 
 if __name__ == "__main__":
@@ -35,7 +30,7 @@ if __name__ == "__main__":
     os.environ["TZ"] = "Europe/Berlin"
     time.tzset()
     # get config args
-    LOAD_GUI = __get_arguments()
+    __get_arguments()
     # init the bot
     bot = Bot()
     # start the bot

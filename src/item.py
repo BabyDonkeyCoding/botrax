@@ -81,7 +81,7 @@ class Item:
             #
             if "auction" in item:
                 #
-                if "sold" in item["auction"]:
+                if "sold" in item["auction"] and len(list(item["auction"]["sold"].values())) > 0:
                     #
                     lst2 = list(item["auction"]["sold"].values())
                     # calculate average offering price
@@ -145,6 +145,7 @@ class Item:
             self._name in config.ITEM_DATA
             and "auction" in config.ITEM_DATA[self._name]
             and "sold" in config.ITEM_DATA[self._name]["auction"]
+            and len(list(config.ITEM_DATA[self._name]["auction"]["sold"].values())) > 0
             and "shop_price" in config.ITEM_DATA[self._name]
             and (
                 math.floor(
