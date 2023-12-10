@@ -44,6 +44,8 @@ def check_dungeon(res, player):
         "?arrive_eval=rausgehen",
         "?do=treppe",
     ]
+    #
+    link_text_tags = ["verlassen", "betreten", "steigen"]
     # loop through all links
     for link in links:
         # get link reference
@@ -51,8 +53,8 @@ def check_dungeon(res, player):
         # we are at a dungeon exit
         if (
             any(key in href for key in ref_tags)
-            or "verlassen" in link.text
-            or "betreten" in link.text
+            or
+            any(key in link.text for key in link_text_tags)
         ) and config.PLAYER_DATA["dungeons"]["next_dungeon_transition"] <= now:
             # check for exit
             if player.get_posx() < 0 and player.get_posy() < 0:
