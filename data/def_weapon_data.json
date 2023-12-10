@@ -1,0 +1,875 @@
+{
+    "Altes Hemd": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dunkles Kleid": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 4900,
+        "magic": false
+    },
+    "Felsenwurmschild": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Goldkrebspanzer": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Hochzeitsanzug": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 7000,
+        "magic": false
+    },
+    "Hochzeitskleid": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 7000,
+        "magic": false
+    },
+    "Kleiner Holzschild": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 30,
+        "magic": false
+    },
+    "Kleiner Serum-Schild": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 30,
+        "magic": false
+    },
+    "Krustenkäferpanzer": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Messingwok": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 44,
+        "magic": false
+    },
+    "Waldschlurchpanzer": {
+        "defense": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Anzug des Waldes": {
+        "defense": 2,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 280,
+        "magic": false
+    },
+    "Borstenpanzer": {
+        "defense": 2,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Ehering": {
+        "defense": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 6000,
+        "magic": false
+    },
+    "Flügelpanzer": {
+        "defense": 0,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": 540,
+        "magic": false
+    },
+    "Freundschaftsring": {
+        "defense": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kleiner Sandschild": {
+        "defense": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 80,
+        "magic": true
+    },
+    "Rostiger Eisenschild": {
+        "defense": 2,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 300,
+        "magic": false
+    },
+    "Trockenwurmpanzer": {
+        "defense": 2,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "alte Rüstung": {
+        "defense": 3,
+        "strength": 8,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": 530,
+        "magic": false
+    },
+    "Dornblatt-Anzug": {
+        "defense": 3,
+        "strength": 7,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": 510,
+        "magic": false
+    },
+    "dunkles Armband": {
+        "defense": 3,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 400,
+        "magic": false
+    },
+    "Großer Sandschild": {
+        "defense": 3,
+        "strength": 1,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 200,
+        "magic": true
+    },
+    "schwere Arbeitskluft": {
+        "defense": 3,
+        "strength": 0,
+        "intelligence": 3,
+        "academy": 0,
+        "race": 2,
+        "avg_price": 300,
+        "magic": false
+    },
+    "Taucheranzug": {
+        "defense": 3,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Umhang der Schatten": {
+        "defense": 3,
+        "strength": 0,
+        "intelligence": 7,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 320,
+        "magic": false
+    },
+    "Anzug der Magie": {
+        "defense": 4,
+        "strength": 0,
+        "intelligence": 10,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 500,
+        "magic": false
+    },
+    "Schwarzschild": {
+        "defense": 4,
+        "strength": 0,
+        "intelligence": 10,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 600,
+        "magic": false
+    },
+    "blauer Ring des Schutzes": {
+        "defense": 5,
+        "strength": 3,
+        "intelligence": 12,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 700,
+        "magic": false
+    },
+    "dunkle Magier-Robe": {
+        "defense": 5,
+        "strength": 4,
+        "intelligence": 11,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 690,
+        "magic": false
+    },
+    "Eisenschild mit Stacheln": {
+        "defense": 5,
+        "strength": 9,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 600,
+        "magic": false
+    },
+    "Giftstachelbusch": {
+        "defense": 5,
+        "strength": 8,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": 620,
+        "magic": false
+    },
+    "Helm des Serums": {
+        "defense": 5,
+        "strength": 5,
+        "intelligence": 9,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 480,
+        "magic": false
+    },
+    "Sandwand": {
+        "defense": 5,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 160,
+        "magic": true
+    },
+    "dunkler Ring des Schutzes": {
+        "defense": 6,
+        "strength": 7,
+        "intelligence": 14,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 720,
+        "magic": false
+    },
+    "Flügelrüstung": {
+        "defense": 0,
+        "strength": 23,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Rüstung des Serums": {
+        "defense": 6,
+        "strength": 6,
+        "intelligence": 11,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 820,
+        "magic": false
+    },
+    "Sandrüstung": {
+        "defense": 6,
+        "strength": 6,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 150,
+        "magic": true
+    },
+    "Silberrüstung": {
+        "defense": 6,
+        "strength": 11,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": 910,
+        "magic": false
+    },
+    "Feuerwalze": {
+        "defense": 7,
+        "strength": 6,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 2,
+        "avg_price": 800,
+        "magic": false
+    },
+    "gelber Ring des Schutzes": {
+        "defense": 7,
+        "strength": 5,
+        "intelligence": 14,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 800,
+        "magic": false
+    },
+    "Harzbaumschild": {
+        "defense": 7,
+        "strength": 11,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": 1030,
+        "magic": false
+    },
+    "Helm des Lichts": {
+        "defense": 8,
+        "strength": 26,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Salzpanzer": {
+        "defense": 8,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Sandring": {
+        "defense": 8,
+        "strength": 22,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schattenpanzer": {
+        "defense": 8,
+        "strength": 9,
+        "intelligence": 14,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 1120,
+        "magic": false
+    },
+    "Schild von Narubia": {
+        "defense": 8,
+        "strength": 22,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 9,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Giftblattrüstung": {
+        "defense": 9,
+        "strength": 26,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Lavapanzer": {
+        "defense": 9,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "schwarzer Talisman": {
+        "defense": 9,
+        "strength": 9,
+        "intelligence": 16,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 1100,
+        "magic": false
+    },
+    "Stahlanzug": {
+        "defense": 9,
+        "strength": 21,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 2,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Aura des Todes": {
+        "defense": 10,
+        "strength": 24,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 5,
+        "avg_price": -1,
+        "magic": false
+    },
+    "grüner Ring des Schutzes": {
+        "defense": 10,
+        "strength": 8,
+        "intelligence": 18,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 1050,
+        "magic": false
+    },
+    "Ring des Todes": {
+        "defense": 11,
+        "strength": 23,
+        "intelligence": 29,
+        "academy": 0,
+        "race": 6,
+        "avg_price": -1,
+        "magic": false
+    },
+    "roter Ring des Schutzes": {
+        "defense": 12,
+        "strength": 22,
+        "intelligence": 30,
+        "academy": 0,
+        "race": 3,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Mondscheinrüstung": {
+        "defense": 14,
+        "strength": 142,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 9,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Diamantharnisch": {
+        "defense": 15,
+        "strength": 146,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Laterne des Widerstands": {
+        "defense": 15,
+        "strength": 144,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Sandsturm": {
+        "defense": 15,
+        "strength": 142,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Baum des Schutzes": {
+        "defense": 16,
+        "strength": 146,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Titanweste": {
+        "defense": 16,
+        "strength": 141,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 2,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Dämon des Schutzes": {
+        "defense": 18,
+        "strength": 143,
+        "intelligence": 129,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Schutzgeisternebel": {
+        "defense": 18,
+        "strength": 142,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "Umhang der Transparenz": {
+        "defense": 19,
+        "strength": 142,
+        "intelligence": 130,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 17000,
+        "magic": false
+    },
+    "flammloser Kleisterschild": {
+        "defense": 25,
+        "strength": 450,
+        "intelligence": 0,
+        "academy": 32000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Seetanganzug": {
+        "defense": 30,
+        "strength": 220,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schild der Vernichtung": {
+        "defense": 42,
+        "strength": 300,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Stachelrüstung": {
+        "defense": 45,
+        "strength": 450,
+        "intelligence": 0,
+        "academy": 32000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Ring des Vulkans": {
+        "defense": 50,
+        "strength": 800,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schild der Untergegangenen": {
+        "defense": 60,
+        "strength": 300,
+        "intelligence": 0,
+        "academy": 10500,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Hartrindenschild": {
+        "defense": 70,
+        "strength": 350,
+        "intelligence": 0,
+        "academy": 12300,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Grottenschlangenhaut": {
+        "defense": 80,
+        "strength": 400,
+        "intelligence": 0,
+        "academy": 14000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stahlnetz der Einflügler": {
+        "defense": 90,
+        "strength": 450,
+        "intelligence": 0,
+        "academy": 16000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Eisenrankenrüstung": {
+        "defense": 95,
+        "strength": 475,
+        "intelligence": 0,
+        "academy": 16500,
+        "race": -1,
+        "avg_price": 8500,
+        "magic": false
+    },
+    "Geisterschild": {
+        "defense": 100,
+        "strength": 500,
+        "intelligence": 0,
+        "academy": 17000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Baru-Schild": {
+        "defense": 110,
+        "strength": 550,
+        "intelligence": 0,
+        "academy": 19000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schild von Pensal": {
+        "defense": 110,
+        "strength": 1100,
+        "intelligence": 0,
+        "academy": 78000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Raketen-Schild von Pensal": {
+        "defense": 125,
+        "strength": 1250,
+        "intelligence": 0,
+        "academy": 89000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "flammender Geisterschild": {
+        "defense": 130,
+        "strength": 650,
+        "intelligence": 0,
+        "academy": 22000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "eiserne Wand": {
+        "defense": 141,
+        "strength": 705,
+        "intelligence": 0,
+        "academy": 24000,
+        "race": -1,
+        "avg_price": 700000,
+        "magic": false
+    },
+    "roter Wurzelschild": {
+        "defense": 150,
+        "strength": 750,
+        "intelligence": 0,
+        "academy": 25000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "blauflammender Geisterschild": {
+        "defense": 160,
+        "strength": 800,
+        "intelligence": 0,
+        "academy": 27000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "eiserne Hartplattenwand": {
+        "defense": 175,
+        "strength": 875,
+        "intelligence": 0,
+        "academy": 30000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Rotationsschild": {
+        "defense": 185,
+        "strength": 925,
+        "intelligence": 0,
+        "academy": 31600,
+        "race": -1,
+        "avg_price": 38000,
+        "magic": false
+    },
+    "Mantel der Ablenkung": {
+        "defense": 200,
+        "strength": 1000,
+        "intelligence": 0,
+        "academy": 34000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Finstereis-Schild": {
+        "defense": 0,
+        "strength": 1030,
+        "intelligence": 0,
+        "academy": 35000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dunkelmorin-Fell": {
+        "defense": 210,
+        "strength": 2100,
+        "intelligence": 0,
+        "academy": 212100,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Ontolon-Saugnapfschild": {
+        "defense": 220,
+        "strength": 1100,
+        "intelligence": 0,
+        "academy": 37400,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Goldplattenschild": {
+        "defense": 230,
+        "strength": 1150,
+        "intelligence": 0,
+        "academy": 39100,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Feuriger Torponschuppenpanzer": {
+        "defense": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Goldener Torponschuppenpanzer": {
+        "defense": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Lebendiger Torponschuppenpanzer": {
+        "defense": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Torponschuppenpanzer": {
+        "defense": 250,
+        "strength": 1250,
+        "intelligence": 0,
+        "academy": 42500,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Zauberhafter Torponschuppenpanzer": {
+        "defense": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Roter Seetanganzug": {
+        "defense": 265,
+        "strength": 2650,
+        "intelligence": 3200,
+        "academy": 267650,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schild der Sonne": {
+        "defense": 265,
+        "strength": 2650,
+        "intelligence": 3200,
+        "academy": 267650,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Frostaugenschild": {
+        "defense": 1600,
+        "strength": 8000,
+        "intelligence": 9500,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    }
+}

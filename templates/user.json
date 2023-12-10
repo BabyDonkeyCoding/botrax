@@ -1,0 +1,220 @@
+{
+    "username": "",
+    "password": "",
+    "world": 1,
+    "last_knowledge_ring": 0,
+    "chase_percentage": 0.02,
+    "tools": [
+        "Spitzhacke"
+    ],
+    "abilities": {
+        "Lebenstraining": {
+            "limit": -1,
+            "item": "Buch des Lebenstrainings",
+            "avg_price": 500,
+            "location": "84|112",
+            "lvl": 0,
+            "id": "8",
+            "cur_lvl": 0,
+            "max_lvl": 0
+        },
+        "Jagd": {
+            "limit": -1,
+            "item": "Buch der Jagd",
+            "avg_price": 400,
+            "location": "71|101",
+            "lvl": 0,
+            "id": "6",
+            "cur_lvl": 0,
+            "max_lvl": 0
+        },
+        "Waffenkunst": {
+            "limit": 10,
+            "item": "Buch der Waffenkunst",
+            "avg_price": 250,
+            "location": "101|116",
+            "lvl": 0,
+            "id": "2",
+            "cur_lvl": 0,
+            "max_lvl": 0
+        },
+        "Zauberkunst": {
+            "limit": -1,
+            "lvl": 0,
+            "id": "25",
+            "cur_lvl": 0,
+            "max_lvl": 0
+        },
+        "Marktwirtschaft": {
+            "limit": 10,
+            "item": "Buch der Marktwirtschaft",
+            "avg_price": 300,
+            "location": "74|107",
+            "lvl": 0,
+            "id": "7",
+            "cur_lvl": 0,
+            "max_lvl": 0
+        }
+    },
+    "academy": {
+        "academy_factor": 1,
+        "min_academy_xpsell": 1000,
+        "next_xp_sell": 0,
+        "next_xp_sell_amount": 1850
+    },
+    "auction": {
+        "undercut": 0.99999,
+        "fixed_prices": {
+            "Ölfass": 246
+        }
+    },
+    "banking": {
+        "min_char_gold_default": 300,
+        "min_char_gold": 328,
+        "max_char_gold": 1348,
+        "min_bank_gold": 100000,
+        "storage": {
+            "Rubin": 3,
+            "blauer Edelstein": 3,
+            "blauer Saphir": 3,
+            "Feuerdiamant": 3,
+            "Edelstein des Lichts": 3,
+            "Edelstein der Liebe": 3,
+            "grüner Smaragd": 3,
+            "Mondscheindiamant": 3,
+            "schwarzer Diamant": 3
+        }
+    },
+    "breaks": {
+        "next_logout": 0,
+        "next_break": 0
+    },
+    "npc": {
+        "blacklist": [
+            "Geisterfetzen",
+            "alter Mann",
+            "Geist der Welt",
+            "Undaron",
+            "Sprühregenwurm",
+            "Portalstab-Anbeter",
+            "Wächter des rauschenden Flusses",
+            "Finsterer Magier",
+            "Kopolaspinne",
+            "Tempelhüter",
+            "rote Landkoralle",
+            "halbverarbeiteter Taruner"
+        ],
+        "avoid": [
+            "zähnefletschender Wachhund",
+            "Schattenkreatur Gortari",
+            "Schattenkreatur Jalakori",
+            "Schattenkreatur Loxutizori",
+            "Schattenkreatur Mantori",
+            "Schattenkreatur Noxomiwori",
+            "Schattenkreatur Surujanuri",
+            "Schattenkreatur Turwakori"
+        ]
+    },
+    "dungeons": {
+        "avoid": [
+            "109|114",
+            "92|104",
+            "91|104",
+            "98|98",
+            "99|103",
+            "75|99",
+            "arrive_eval=unten982",
+            "arrive_eval=oben2062",
+            "arrive_eval=oben4320",
+            "arrive_eval=unten106",
+            "arrive_eval=down",
+            "arrive_eval=unten310a",
+            "arrive_eval=oben301",
+            "arrive_eval=oben1598",
+            "arrive_eval=oben3606",
+            "arrive_eval=betreten21021",
+            "arrive_eval=unten4941"
+        ],
+        "next_dungeon_transition": 0
+    },
+    "consumables": [
+        {
+            "name": "gepresste Zauberkugel",
+            "min": 1,
+            "max": 3,
+            "avg_price": 130
+        },
+        {
+            "name": "Flasche Taunektarbier",
+            "min": 0.1,
+            "max": 0.2,
+            "location": "100|88",
+            "avg_price": 35
+        }
+    ],
+    "farming": [
+        {
+            "name": "Pfeil",
+            "base_interval": 240000,
+            "next_farm": 0,
+            "amount_default": 0.05,
+            "amount": 5
+        },
+        {
+            "name": "Wakrudpilz",
+            "base_interval": 35000,
+            "next_farm": 0,
+            "amount_default": 12,
+            "amount": 5
+        }
+    ],
+    "investments": [
+        {
+            "name": "healing_pot",
+            "type": "storage",
+            "location": "76|110",
+            "next_action": 0,
+            "last_action": 0,
+            "costs": 0,
+            "limit": 26,
+            "lvl": 0,
+            "prepay": false,
+            "prepared": false
+        },
+        {
+            "name": "oil_storage",
+            "type": "storage",
+            "limit": -1,
+            "location": "103|117",
+            "next_action": 0,
+            "last_action": 0,
+            "costs": 0,
+            "lvl": 0,
+            "prepay": false,
+            "prepared": false
+        },
+        {
+            "name": "oil_tower",
+            "type": "build",
+            "location": "103|115",
+            "next_action": 0,
+            "last_action": 0,
+            "costs": 6500,
+            "lvl": 38,
+            "prepay": true,
+            "prepared": false
+        },
+        {
+            "name": "life",
+            "type": "study",
+            "location": "84|102",
+            "next_action": 0,
+            "last_action": 0,
+            "prepay": false,
+            "costs": 4500,
+            "lvl": 0,
+            "xp": 100,
+            "prepared": false
+        }
+    ]
+}

@@ -1,0 +1,6959 @@
+{
+    "npcs": {
+        "AASGEIER": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "ABGESANDTER DER EISWELT": {
+            "attack": 34,
+            "hp": 6000,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "ABGESTÜRZTE LICHTPFLANZE": {
+            "attack": 5,
+            "hp": 45,
+            "xp": 1,
+            "gold": 45,
+            "type": ""
+        },
+        "ABGESTÜRZTER WELTRAUM-KRAKE": {
+            "attack": 13,
+            "hp": 200,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "AGGRESSIVER VIPARA": {
+            "attack": 18,
+            "hp": 300,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ALGENECHSE": {
+            "attack": 6,
+            "hp": 60,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "ALTE GROTTENSCHLANGE": {
+            "attack": 2710,
+            "hp": 420000,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "ALTE PILZWACHTEL": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "ALTER GOLDBALLENWURM": {
+            "attack": 5,
+            "hp": 15,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "ALTER MANN": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "ALTER ÖLFISCH": {
+            "attack": 12,
+            "hp": 150,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "ALTES BLÄTTERWESEN": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 1,
+            "gold": 33,
+            "type": ""
+        },
+        "ALTES KAKLATRON": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "ALTSTADTRATTE": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "AMEISENHÜGEL": {
+            "attack": 2,
+            "hp": 13,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "ANEMONENFISCH": {
+            "attack": 9,
+            "hp": 90,
+            "xp": 1,
+            "gold": 60,
+            "type": ""
+        },
+        "ANGEBISSENE LIANENECHSE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "ANGRIFFSLUSTIGER RIESENKREBS": {
+            "attack": 6142,
+            "hp": 188620820,
+            "xp": 7,
+            "gold": 100,
+            "type": ""
+        },
+        "ASCHENFLEDERMAUS": {
+            "attack": 2,
+            "hp": 12,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "ASCHENFLÜGEL": {
+            "attack": 24,
+            "hp": 640,
+            "xp": 1,
+            "gold": 31,
+            "type": ""
+        },
+        "ASCHENVOGEL": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "ASTGREIFER": {
+            "attack": 228,
+            "hp": 51948,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "AUFGEREGTER NEBELHÜPFER": {
+            "attack": 5,
+            "hp": 15,
+            "xp": 1,
+            "gold": 60,
+            "type": ""
+        },
+        "AUSGESTOSSENER GLYPRA": {
+            "attack": 12,
+            "hp": 350,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "AUSGEWACHSENER STRATIVAR": {
+            "attack": 552,
+            "hp": 75000,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "BABY-EINFLÜGLER": {
+            "attack": 5,
+            "hp": 90,
+            "xp": 1,
+            "gold": 50,
+            "type": ""
+        },
+        "BADENDER FROSTWOLF-WELPE": {
+            "attack": 8,
+            "hp": 70,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "BARU-GIFTEGEL": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "BAUMKUSCHLER": {
+            "attack": 5,
+            "hp": 70,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "BELEBENDER FALTER": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "BELPHARIA-TUCAN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "BEMOOSTER FELSBLOCK": {
+            "attack": 1111,
+            "hp": 555555,
+            "xp": 2,
+            "gold": 23,
+            "type": ""
+        },
+        "BENEBELTES MORMDAT": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "BERGHASE": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "BERGHUND": {
+            "attack": 5,
+            "hp": 45,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "BERGPILZ": {
+            "attack": 2,
+            "hp": 70,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "BERNSTEIN-FALKE": {
+            "attack": 199,
+            "hp": 40000,
+            "xp": 2,
+            "gold": 36,
+            "type": ""
+        },
+        "BERNSTEIN-RAUPE": {
+            "attack": 8,
+            "hp": 100,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "BISSIGER ÖLFISCH": {
+            "attack": 73,
+            "hp": 8000,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "BLATTALISK": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 1,
+            "gold": 33,
+            "type": ""
+        },
+        "BLATTSPINNE": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "BLAUER STACHELSCHUSS-IGEL": {
+            "attack": 86,
+            "hp": 6000,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "BLAUER TODESLÄUFER": {
+            "attack": 35,
+            "hp": 1200,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "BLAUES GLÜHWÜRMCHEN": {
+            "attack": 12,
+            "hp": 200,
+            "xp": 1,
+            "gold": 120,
+            "type": ""
+        },
+        "BLAUKAMM-VOGEL": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "BLAUSCHIMMER-AMEISE": {
+            "attack": 62,
+            "hp": 3900,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "BLAUWALDWURM": {
+            "attack": 2,
+            "hp": 30,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "BLUMENBEISSER": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "BLUTAMEISE": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTBLATT": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTBLOB": {
+            "attack": 40,
+            "hp": 1600,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTENDE LIANENSCHLINGE": {
+            "attack": 3,
+            "hp": 5,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "BLUTFORSCH": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "BLUTGEFLECHT": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTHARZGESCHOSS": {
+            "attack": 172,
+            "hp": 29584,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTHARZREGEN": {
+            "attack": 31,
+            "hp": 961,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTHARZTROPFEN": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTIGE PEITSCHENLIANE": {
+            "attack": 37,
+            "hp": 6500,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "BLUTIGER STEIN": {
+            "attack": 8,
+            "hp": 40,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "BLUTIGES SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 4,
+            "type": ""
+        },
+        "BLUTKRÄHE": {
+            "attack": 33,
+            "hp": 1089,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTKÄFER": {
+            "attack": 1,
+            "hp": 4,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTRABE": {
+            "attack": 22,
+            "hp": 484,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTSPINNE": {
+            "attack": 2,
+            "hp": 4,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTSPINNENNETZ": {
+            "attack": 3,
+            "hp": 9,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTWANZE": {
+            "attack": 3,
+            "hp": 9,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BLUTWURM": {
+            "attack": 4,
+            "hp": 18,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "BORKENDE BLUTBIRKE": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "BORSTENFISCH": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "BRAN-SCHLEIM": {
+            "attack": 90,
+            "hp": 980,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "BRAUNBÄR": {
+            "attack": 19,
+            "hp": 190,
+            "xp": 2,
+            "gold": 73,
+            "type": ""
+        },
+        "BRAUNE RAUBSPINNE": {
+            "attack": 283,
+            "hp": 24834,
+            "xp": 1,
+            "gold": 39,
+            "type": ""
+        },
+        "BREITER FELSEN": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "BRENNENDES SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "BROTANDRO-VIRUS": {
+            "attack": 111,
+            "hp": 1300,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "BRUDER DES NEBELBESENS": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "BRUMMKÄFER": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "BRUTALER FALLENSTELLER": {
+            "attack": 850,
+            "hp": 135000,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "BUNTBACHFILCHE": {
+            "attack": 6,
+            "hp": 55,
+            "xp": 2,
+            "gold": 41,
+            "type": ""
+        },
+        "BUSCH-FRUL": {
+            "attack": 5,
+            "hp": 55,
+            "xp": 2,
+            "gold": 55,
+            "type": ""
+        },
+        "BUSSARD": {
+            "attack": 17,
+            "hp": 260,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "BÜCHERWURM": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 2,
+            "gold": 5,
+            "type": ""
+        },
+        "CHIUP-VOGEL": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "CRIM GARAANK": {
+            "attack": 40,
+            "hp": 10000,
+            "xp": 5,
+            "gold": 2,
+            "type": ""
+        },
+        "DECKENKLEIBER": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "DENKENDER LAVABLOB": {
+            "attack": 28,
+            "hp": 7000,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "DER UNERMÜDLICHE": {
+            "attack": 38,
+            "hp": 1420,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "DIAMANTFISCH": {
+            "attack": 6,
+            "hp": 70,
+            "xp": 1,
+            "gold": 70,
+            "type": ""
+        },
+        "DICKE, FETTE STRANDKRABBE": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "DICKER ZUKUVOGEL": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "DIENER VON BEISPIELUSER": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 3,
+            "type": ""
+        },
+        "DILINUG": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "DONNERSANDSCHLANGE": {
+            "attack": 6,
+            "hp": 60,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "DONNERSTIER": {
+            "attack": 9,
+            "hp": 180,
+            "xp": 3,
+            "gold": 63,
+            "type": ""
+        },
+        "DOPPELKÖPFIGER RIESENSKORPION": {
+            "attack": 8,
+            "hp": 100,
+            "xp": 2,
+            "gold": 14,
+            "type": ""
+        },
+        "DRADONFALTER": {
+            "attack": 9,
+            "hp": 60,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "DREIÄUGIGER STIER": {
+            "attack": 3,
+            "hp": 3,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "DUFTENDES GRÜNSCHLEIMWESEN": {
+            "attack": 666,
+            "hp": 90000,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "DUMMER LAVABLOB": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "DUNBRAKATZE": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 0,
+            "gold": 3,
+            "type": ""
+        },
+        "DUNKELGROTTENPILZ": {
+            "attack": 9,
+            "hp": 120,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "DUNKELMORIN-SKELETT": {
+            "attack": 311,
+            "hp": 45000,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "DUNKELSAND-SCHMETTERLING": {
+            "attack": 13,
+            "hp": 50,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "DUNKELSANDKREBS": {
+            "attack": 12,
+            "hp": 250,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "DUNKELSEE-QUALLE": {
+            "attack": 32,
+            "hp": 250,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "DUNKELSTERN-ARBEITER": {
+            "attack": 4,
+            "hp": 30,
+            "xp": 0,
+            "gold": 21,
+            "type": ""
+        },
+        "DUNKELSTERN-KRIEGER": {
+            "attack": 7,
+            "hp": 70,
+            "xp": 0,
+            "gold": 29,
+            "type": ""
+        },
+        "DUNKELSTERN-MAGIER": {
+            "attack": 9,
+            "hp": 100,
+            "xp": 0,
+            "gold": 33,
+            "type": ""
+        },
+        "DUNKELWANZE": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "DUNKLE SANDRATTE": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "DUNKLER SANDTAPRAP": {
+            "attack": 17,
+            "hp": 700,
+            "xp": 3,
+            "gold": 80,
+            "type": ""
+        },
+        "DUNKLER SCHAMANE": {
+            "attack": 12,
+            "hp": 180,
+            "xp": 2,
+            "gold": 46,
+            "type": ""
+        },
+        "DURCHGEDREHTER FELSENSCHREIER": {
+            "attack": 343,
+            "hp": 46000,
+            "xp": 2,
+            "gold": 30,
+            "type": ""
+        },
+        "DURSTIGE RIESENLIBELLE": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "DÄMONISCHES GRÜNSCHLEIMWESEN": {
+            "attack": 666,
+            "hp": 90000,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "EDELSTEINSCHLURCH": {
+            "attack": 39,
+            "hp": 356,
+            "xp": 1,
+            "gold": 73,
+            "type": ""
+        },
+        "EIN SCHWARM BLUTKRÄHEN": {
+            "attack": 100,
+            "hp": 10000,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "EINE SCHAR BLUTRABEN": {
+            "attack": 147,
+            "hp": 21609,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "EINFLÜGLER": {
+            "attack": 400,
+            "hp": 60000,
+            "xp": 1,
+            "gold": 50,
+            "type": ""
+        },
+        "EINSAMER SCHNEEHASE": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "EINSAMER WALDHÜPFER": {
+            "attack": 5,
+            "hp": 20,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "EINÄUGIGER STIER": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "EISBOHRMASCHINE": {
+            "attack": 7,
+            "hp": 90,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "EISBOHRMASCHINE-PROTOTYP": {
+            "attack": 7,
+            "hp": 90,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "EISKAKTUS": {
+            "attack": 307,
+            "hp": 91827,
+            "xp": 1,
+            "gold": 38,
+            "type": ""
+        },
+        "EISQUALLE": {
+            "attack": 7603,
+            "hp": 288800230,
+            "xp": 3,
+            "gold": 63,
+            "type": ""
+        },
+        "EISSCHLEIMGRÜNLING": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "EISSEEIGEL": {
+            "attack": 6,
+            "hp": 52,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "EISVOGEL": {
+            "attack": 8,
+            "hp": 60,
+            "xp": 1,
+            "gold": 34,
+            "type": ""
+        },
+        "EISWURM": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 17,
+            "type": ""
+        },
+        "EKTOFRON": {
+            "attack": 50,
+            "hp": 5000,
+            "xp": 1,
+            "gold": 36,
+            "type": ""
+        },
+        "ENERGETISCHER FALTER": {
+            "attack": 6,
+            "hp": 25,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ENERGIEWURM": {
+            "attack": 2,
+            "hp": 40,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "ENORME STACHELSCHILDKRÖTE": {
+            "attack": 1800,
+            "hp": 350000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ENTLAUFENE GEISTERSCHABE": {
+            "attack": 3,
+            "hp": 17,
+            "xp": 0,
+            "gold": 4,
+            "type": ""
+        },
+        "ENTSPANNTE FLACHASSEL": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "ERDFISCH": {
+            "attack": 4,
+            "hp": 25,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "ERDKÄFER": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 0,
+            "gold": 2,
+            "type": ""
+        },
+        "ERDSCHLURCH": {
+            "attack": 2,
+            "hp": 13,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "ERDVOGEL": {
+            "attack": 7,
+            "hp": 50,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "ERFAHRENER FROSTWOLF": {
+            "attack": 1540,
+            "hp": 740000,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "ERFRORENER LAVA-KÄFER": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 1,
+            "gold": 31,
+            "type": ""
+        },
+        "ERFRORENES SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "ERSCHÖPFTE KLAUENRATTE": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "ERTRINKENDER ENERGIEWURM": {
+            "attack": 2,
+            "hp": 40,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "ERZSCHNECKE": {
+            "attack": 4586,
+            "hp": 131331333,
+            "xp": 1,
+            "gold": 35,
+            "type": ""
+        },
+        "EXIL-NOMADE": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 2,
+            "gold": 12,
+            "type": ""
+        },
+        "EXOTISCHER FISCH": {
+            "attack": 2,
+            "hp": 5,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "EXPLOSIVER TEMPELSCHLEIM": {
+            "attack": 2,
+            "hp": 19,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "FALLENSTELLER": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "FELDHASE": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "FELSENASSEL": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "FELSENECHSE": {
+            "attack": 5,
+            "hp": 60,
+            "xp": 1,
+            "gold": 33,
+            "type": ""
+        },
+        "FELSENKRABBLER": {
+            "attack": 473,
+            "hp": 76450,
+            "xp": 1,
+            "gold": 43,
+            "type": ""
+        },
+        "FELSENKRIECHER": {
+            "attack": 762,
+            "hp": 354000,
+            "xp": 2,
+            "gold": 25,
+            "type": ""
+        },
+        "FELSENSCHREIER": {
+            "attack": 10,
+            "hp": 1,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "FELSENWURM": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "FEUERFUCHS": {
+            "attack": 276,
+            "hp": 380880,
+            "xp": 2,
+            "gold": 22,
+            "type": ""
+        },
+        "FEUERGEIST": {
+            "attack": 25,
+            "hp": 3000,
+            "xp": 3,
+            "gold": 69,
+            "type": ""
+        },
+        "FEUERKÄFER": {
+            "attack": 3,
+            "hp": 30,
+            "xp": 2,
+            "gold": 25,
+            "type": ""
+        },
+        "FEUERLAUB-ECHSE": {
+            "attack": 6,
+            "hp": 70,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "FEUERLURCH": {
+            "attack": 15,
+            "hp": 150,
+            "xp": 1,
+            "gold": 45,
+            "type": ""
+        },
+        "FEUERSKORPION": {
+            "attack": 8954,
+            "hp": 482955205,
+            "xp": 0,
+            "gold": 24,
+            "type": ""
+        },
+        "FEUERVOGEL": {
+            "attack": 25,
+            "hp": 3000,
+            "xp": 3,
+            "gold": 69,
+            "type": ""
+        },
+        "FEUERWOLF": {
+            "attack": 2,
+            "hp": 9,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "FEURIGER SCHMETTERLING": {
+            "attack": 23,
+            "hp": 230,
+            "xp": 2,
+            "gold": 43,
+            "type": ""
+        },
+        "FINSTEREIS-BEWACHER": {
+            "attack": 1,
+            "hp": 100,
+            "xp": 0,
+            "gold": 0,
+            "type": ""
+        },
+        "FLACHASSEL": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "FLAMMENDES GLÜHWÜRMCHEN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "FLAMMENWURM": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "FLECKEN-WOLF": {
+            "attack": 2,
+            "hp": 18,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "FLECKFARBENFISCH": {
+            "attack": 25,
+            "hp": 800,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "FLEISCHFRESSENDE SAO-PFLANZE": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "FLEISSIGES LICHTWESEN": {
+            "attack": 8,
+            "hp": 155,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "FLIEGENDE KUH": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "FLIEGENDE NEBELKUGEL": {
+            "attack": 20,
+            "hp": 200,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "FLOSSENFLINGER": {
+            "attack": 3,
+            "hp": 37,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "FLUSSMAKRELE": {
+            "attack": 45,
+            "hp": 404,
+            "xp": 1,
+            "gold": 42,
+            "type": ""
+        },
+        "FLÜSTERGEIST": {
+            "attack": 1,
+            "hp": 30,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "FRIERENDER SCHNEEFISCH": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "FRIERENDER SCHNEEKÄFER": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "FRIERENDER SCHNEEWURM": {
+            "attack": 2,
+            "hp": 35,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "FRIERENDES SCHNEEWIESEL": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "FROST-WIESEL": {
+            "attack": 9,
+            "hp": 150,
+            "xp": 1,
+            "gold": 70,
+            "type": ""
+        },
+        "FROSTAUGEN-BESTIE": {
+            "attack": 7,
+            "hp": 70,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "FROSTDÄMON": {
+            "attack": 65,
+            "hp": 12000,
+            "xp": 2,
+            "gold": 20,
+            "type": ""
+        },
+        "FROSTGEIST": {
+            "attack": 14,
+            "hp": 250,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "FROSTWOLF": {
+            "attack": 781,
+            "hp": 250000,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "FROSTWOLF-ANFÜHRER": {
+            "attack": 2760,
+            "hp": 3480000,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "FROSTWOLF-WELPE": {
+            "attack": 8,
+            "hp": 70,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "GARDU-STRAUCHKÄFER": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GARTENSCHILDKRÖTE": {
+            "attack": 3643,
+            "hp": 3126948,
+            "xp": 2,
+            "gold": 33,
+            "type": ""
+        },
+        "GEFALLENER SPINDELSCHREITER": {
+            "attack": 5,
+            "hp": 15,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "GEFLECKTE RIESENLIBELLE": {
+            "attack": 4,
+            "hp": 35,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GEFRÄSSIGER GRASHÜPFER": {
+            "attack": 4,
+            "hp": 33,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GEFRÄSSIGER SCHATTENSALAMANDER": {
+            "attack": 35,
+            "hp": 3200,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "GEFRÄSSIGE SCHOTTERRAUPE": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "GEFÄHRLICHES TIER": {
+            "attack": 1,
+            "hp": 100000000,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "GEIST DER DEPRESSIONEN": {
+            "attack": 80,
+            "hp": 30000,
+            "xp": 3,
+            "gold": 23,
+            "type": ""
+        },
+        "GEIST DER FINSTERNIS": {
+            "attack": 5,
+            "hp": 15,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "GEIST DER WELT": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "GEIST VON PUR PUR": {
+            "attack": 10,
+            "hp": 130,
+            "xp": 1,
+            "gold": 80,
+            "type": ""
+        },
+        "GEISTER-UNDARON": {
+            "attack": 10,
+            "hp": 3,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "GEISTERFETZEN": {
+            "attack": 4,
+            "hp": 30,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "GEISTERSCHABE": {
+            "attack": 3,
+            "hp": 17,
+            "xp": 0,
+            "gold": 4,
+            "type": ""
+        },
+        "GEISTERSCHIFF": {
+            "attack": 7238,
+            "hp": 190456732,
+            "xp": 7,
+            "gold": 3,
+            "type": ""
+        },
+        "GEKNICKTER LEBENDER AST": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "GEKRÜMMTER KREIDEWURM": {
+            "attack": 4,
+            "hp": 5,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "GELANGWEILTER FALLENSTELLER": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "GELBBART-YETI": {
+            "attack": 23,
+            "hp": 2200,
+            "xp": 3,
+            "gold": 92,
+            "type": ""
+        },
+        "GELBKATZE": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GEMEINER UNTERWELT-DÄMON": {
+            "attack": 45,
+            "hp": 3000,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "GEPFORN": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "GERFTAR-BAKTERIUM": {
+            "attack": 28,
+            "hp": 230,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "GERÖLLSCHLANGE": {
+            "attack": 23,
+            "hp": 800,
+            "xp": 2,
+            "gold": 16,
+            "type": ""
+        },
+        "GERÖLLWIESENSCHLANGE": {
+            "attack": 2,
+            "hp": 17,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "GESCHWÄCHTER ABGESANDTER": {
+            "attack": 10,
+            "hp": 300,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "GESCHWÄCHTER KREIDEVOGEL": {
+            "attack": 6,
+            "hp": 10,
+            "xp": 0,
+            "gold": 18,
+            "type": ""
+        },
+        "GESCHWÄCHTES KAKLATRON": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "GEYSIR-SCHLUCKER": {
+            "attack": 1200,
+            "hp": 200000,
+            "xp": 2,
+            "gold": 40,
+            "type": ""
+        },
+        "GIFTBEISSER": {
+            "attack": 4,
+            "hp": 45,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "GIFTBLUBBERZAHNMONSTER": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "GIFTGRABL": {
+            "attack": 10,
+            "hp": 100,
+            "xp": 1,
+            "gold": 92,
+            "type": ""
+        },
+        "GIFTIGER SAUGFISCH": {
+            "attack": 2,
+            "hp": 18,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "GIFTSCHLEIMER": {
+            "attack": 6,
+            "hp": 70,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "GIFTSPORENPILZ": {
+            "attack": 3,
+            "hp": 24,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "GIGANTISCHER SPINDELSCHREITER": {
+            "attack": 1500,
+            "hp": 225000,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "GIGANTISCHER STAUBGEIST": {
+            "attack": 1021,
+            "hp": 1080000,
+            "xp": 2,
+            "gold": 52,
+            "type": ""
+        },
+        "GIGANTISCHER TODESLÄUFER": {
+            "attack": 1040,
+            "hp": 180000,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "GIPFELLÖWE": {
+            "attack": 2837,
+            "hp": 1538000,
+            "xp": 3,
+            "gold": 57,
+            "type": ""
+        },
+        "GLASHAUTMOTTE": {
+            "attack": 3422,
+            "hp": 68444444,
+            "xp": 1,
+            "gold": 54,
+            "type": ""
+        },
+        "GLASWASSERFISCH": {
+            "attack": 7,
+            "hp": 150,
+            "xp": 1,
+            "gold": 42,
+            "type": ""
+        },
+        "GLETSCHERENTE": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GLIBBRIGER EISWURM": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 17,
+            "type": ""
+        },
+        "GLIMMERFLIEGE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 0,
+            "gold": 3,
+            "type": ""
+        },
+        "GLIMMERMADE": {
+            "attack": 30,
+            "hp": 310,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "GLUTLICHTFALTER": {
+            "attack": 123,
+            "hp": 15951,
+            "xp": 2,
+            "gold": 46,
+            "type": ""
+        },
+        "GLUTSCHLEIM (NPC)": {
+            "attack": 316,
+            "hp": 50,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "GLUTSCHLEIMTROPFEN": {
+            "attack": 1,
+            "hp": 50,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "GLYPRA": {
+            "attack": 12,
+            "hp": 350,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "GLYPRA-SPÄHER": {
+            "attack": 12,
+            "hp": 350,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "GLÜHENDE STAUBECHSE": {
+            "attack": 180,
+            "hp": 30000,
+            "xp": 2,
+            "gold": 80,
+            "type": ""
+        },
+        "GLÜHNEBEL": {
+            "attack": 2,
+            "hp": 32,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "GLÜHWÜRMCHEN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GOLDBALLENWURM": {
+            "attack": 30,
+            "hp": 40,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GOLDENER FLUTENTAUCHER": {
+            "attack": 924,
+            "hp": 777777,
+            "xp": 2,
+            "gold": 15,
+            "type": ""
+        },
+        "GOLDENER UNDARONWÄCHTER": {
+            "attack": 104,
+            "hp": 11428,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "GOLDFADENWURM": {
+            "attack": 5,
+            "hp": 18,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "GOLDFLOSSENFISCH": {
+            "attack": 2,
+            "hp": 17,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "GOLDKREBS": {
+            "attack": 2,
+            "hp": 12,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "GOLDKUH": {
+            "attack": 4,
+            "hp": 30,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "GOLDWURM": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 57,
+            "type": ""
+        },
+        "GOLDWÄCHTER": {
+            "attack": 14,
+            "hp": 300,
+            "xp": 3,
+            "gold": 23,
+            "type": ""
+        },
+        "GORILLA": {
+            "attack": 14,
+            "hp": 190,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "GRABFLIEGE": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "GRABGEIST DER VERMISSTEN TOTEN": {
+            "attack": 9,
+            "hp": 140,
+            "xp": 2,
+            "gold": 80,
+            "type": ""
+        },
+        "GRABWURM": {
+            "attack": 3,
+            "hp": 18,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "GRAFRATHER STECHMÜCKENSCHWARM": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "GRASBLATT-SCHLANGE": {
+            "attack": 6,
+            "hp": 55,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "GRASPFERD": {
+            "attack": 3,
+            "hp": 18,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "GRASSTEIN": {
+            "attack": 4,
+            "hp": 22,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "GRASWIESENSCHLANGE": {
+            "attack": 2,
+            "hp": 17,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "GRATRAT-ALIEN": {
+            "attack": 20,
+            "hp": 800,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "GRAUBARTECHSE": {
+            "attack": 1,
+            "hp": 6,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "GRAUGOLDFALTER": {
+            "attack": 4,
+            "hp": 18,
+            "xp": 1,
+            "gold": 45,
+            "type": ""
+        },
+        "GRAUSTEIN-BÄR": {
+            "attack": 10,
+            "hp": 4800,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "GREFEKFISCH": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "GROTTENSCHLANGE": {
+            "attack": 271,
+            "hp": 32000,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "GROSSER BOHNENSCHNAPPER": {
+            "attack": 3,
+            "hp": 18,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "GROSSER ERDKÄFER": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "GROSSER LAUBBÄR": {
+            "attack": 24,
+            "hp": 2600,
+            "xp": 2,
+            "gold": 92,
+            "type": ""
+        },
+        "GROSSER LAVA-KÄFER": {
+            "attack": 8,
+            "hp": 120,
+            "xp": 2,
+            "gold": 46,
+            "type": ""
+        },
+        "GROSSER PHASENVOGEL": {
+            "attack": 955,
+            "hp": 380000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "GROSSER RAUBVOGEL": {
+            "attack": 65,
+            "hp": 20480,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "GROSSER SCHATTEN DER DUNKELHEIT": {
+            "attack": 630,
+            "hp": 85000,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "GROSSER WURZELWURM": {
+            "attack": 10,
+            "hp": 150,
+            "xp": 1,
+            "gold": 39,
+            "type": ""
+        },
+        "GROSSES ASCHEN-SKELETT": {
+            "attack": 1391,
+            "hp": 8746251,
+            "xp": 2,
+            "gold": 39,
+            "type": ""
+        },
+        "GRUBENSINGVOGEL": {
+            "attack": 8,
+            "hp": 700,
+            "xp": 1,
+            "gold": 48,
+            "type": ""
+        },
+        "GRUNULUM": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 2,
+            "gold": 57,
+            "type": ""
+        },
+        "GRÜNDORN-GURKENWURM": {
+            "attack": 31,
+            "hp": 290,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "GRÜNE BAUMSCHLANGE": {
+            "attack": 23,
+            "hp": 202,
+            "xp": 1,
+            "gold": 34,
+            "type": ""
+        },
+        "GRÜNES SCHLEIMWESEN": {
+            "attack": 7,
+            "hp": 64,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "GRÜNSCHIMMER-AMEISE": {
+            "attack": 18,
+            "hp": 260,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "GURDZ-BEERENSTRAUCH": {
+            "attack": 3,
+            "hp": 28,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "GÄMSE": {
+            "attack": 8,
+            "hp": 75,
+            "xp": 1,
+            "gold": 31,
+            "type": ""
+        },
+        "HANGSTELZER": {
+            "attack": 46,
+            "hp": 6500,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "HARMLOSER GIFTSPORENPILZ": {
+            "attack": 3,
+            "hp": 24,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "HASE": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "HELMFAMITSU": {
+            "attack": 16,
+            "hp": 140,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "HERZ DER MAGIE": {
+            "attack": 0,
+            "hp": 1000000,
+            "xp": 0,
+            "gold": 0,
+            "type": ""
+        },
+        "HINTERLISTIGER STORORAPTOR": {
+            "attack": 710,
+            "hp": 105000,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "HOLZ-MAUS": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 3,
+            "type": ""
+        },
+        "HOLZPLATTEN-SCHILDKRÖTE": {
+            "attack": 4,
+            "hp": 45,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "HORNKÄFER": {
+            "attack": 3,
+            "hp": 32,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "HULNODAR-HEILER": {
+            "attack": 7,
+            "hp": 80,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "HULNODAR-WÄCHTER": {
+            "attack": 12,
+            "hp": 250,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "HUNDERTFÜSSIGER DILINUG": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "HYPERAKTIVER WALDHÜPFER": {
+            "attack": 3100,
+            "hp": 480000,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "HYÄNE": {
+            "attack": 2,
+            "hp": 13,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "HÖHLENBÄR": {
+            "attack": 12,
+            "hp": 170,
+            "xp": 2,
+            "gold": 57,
+            "type": ""
+        },
+        "HÖHLENMENSCH": {
+            "attack": 5,
+            "hp": 35,
+            "xp": 2,
+            "gold": 23,
+            "type": ""
+        },
+        "INSEL-SCHNAPPER": {
+            "attack": 2,
+            "hp": 40,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "ITOLOS-SCHRECKE": {
+            "attack": 5,
+            "hp": 30,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "JERODAR-DIEB": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 2,
+            "gold": 1,
+            "type": ""
+        },
+        "JERODAR-ERDWÜHLER": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "JERODAR-LEHRLING": {
+            "attack": 1,
+            "hp": 15,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "JUNGER ABGESANDTER": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "JUNGER GIFTGRABL": {
+            "attack": 9,
+            "hp": 100,
+            "xp": 1,
+            "gold": 92,
+            "type": ""
+        },
+        "JUNGER GRAUSTEIN-BÄR": {
+            "attack": 1,
+            "hp": 100,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "JUNGER SCHATTEN DER DUNKELHEIT": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "JUNGER STORORAPTOR": {
+            "attack": 25,
+            "hp": 330,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "JUNGER STRATIVAR": {
+            "attack": 10,
+            "hp": 150,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "KAKLATRON": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "KAMEL": {
+            "attack": 11,
+            "hp": 125,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "KANAL-KRAKE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "KANALQUALLE": {
+            "attack": 50,
+            "hp": 10000,
+            "xp": 1,
+            "gold": 38,
+            "type": ""
+        },
+        "KARAKAL": {
+            "attack": 14,
+            "hp": 160,
+            "xp": 1,
+            "gold": 36,
+            "type": ""
+        },
+        "KASTANIENTRÄNE": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KELLERASSEL": {
+            "attack": 7,
+            "hp": 777,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "KLAPPERSCHLANGE": {
+            "attack": 3,
+            "hp": 8,
+            "xp": 1,
+            "gold": 0,
+            "type": ""
+        },
+        "KLAUENBARTREIN": {
+            "attack": 22,
+            "hp": 2000,
+            "xp": 3,
+            "gold": 150,
+            "type": ""
+        },
+        "KLAUENRATTE": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "KLEINE BLUTRATTE": {
+            "attack": 2,
+            "hp": 4,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KLEINE BLUTWEIDE": {
+            "attack": 256,
+            "hp": 65536,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KLEINE FARBANOMALIE": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "KLEINE GROTTENSCHLANGE": {
+            "attack": 9,
+            "hp": 120,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "KLEINE LUFTSCHNECKE": {
+            "attack": 1,
+            "hp": 6,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "KLEINE SPINNE": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "KLEINE STACHELMADE": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "KLEINER FEUERFUCHS": {
+            "attack": 21,
+            "hp": 321,
+            "xp": 1,
+            "gold": 0,
+            "type": ""
+        },
+        "KLEINER HÜPFSTEIN": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "KLEINER LAUBBÄR": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "KLEINER NEBELKREISCHER": {
+            "attack": 6,
+            "hp": 60,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "KLEINER PHASENBÄR": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "KLEINER SCHATTENSKORPION": {
+            "attack": 70,
+            "hp": 600,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "KLEINER SPINDELSCHREITER": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KLEINER STEINGOLEM": {
+            "attack": 6,
+            "hp": 160,
+            "xp": 1,
+            "gold": 57,
+            "type": ""
+        },
+        "KLEINER VIPARA": {
+            "attack": 8,
+            "hp": 100,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "KLEINER WALDSCHLURCH": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "KLEINES HAUS-SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "KLEINES REEN": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "KLEINES SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "KLEINES SCHLANGENTIER": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "KNOCHENSAMMLER": {
+            "attack": 5,
+            "hp": 55,
+            "xp": 2,
+            "gold": 57,
+            "type": ""
+        },
+        "KNORRIGE WURZEL": {
+            "attack": 40,
+            "hp": 1600,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KNUNGLO": {
+            "attack": 10,
+            "hp": 120,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "KNURRENDER GOLDBALLENWURM": {
+            "attack": 560,
+            "hp": 15000,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "KOLOA-KÄFER": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "KRAFTVOLLER SPORENTRÄGER": {
+            "attack": 710,
+            "hp": 98000,
+            "xp": 0,
+            "gold": 10,
+            "type": ""
+        },
+        "KRANKE GROTTENSCHLANGE": {
+            "attack": 271,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "KRANKE MILCHKUH": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "KRANKER TODESLÄUFER": {
+            "attack": 3,
+            "hp": 30,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "KRANKER WÜSTENSALAMANDER": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "KREIDEHIRSCH": {
+            "attack": 1222,
+            "hp": 210000,
+            "xp": 0,
+            "gold": 22,
+            "type": ""
+        },
+        "KREIDEKÄFER": {
+            "attack": 130,
+            "hp": 4500,
+            "xp": 0,
+            "gold": 17,
+            "type": ""
+        },
+        "KREIDEVOGEL": {
+            "attack": 20,
+            "hp": 289,
+            "xp": 0,
+            "gold": 18,
+            "type": ""
+        },
+        "KREIDEWURM": {
+            "attack": 5,
+            "hp": 25,
+            "xp": 0,
+            "gold": 15,
+            "type": ""
+        },
+        "KREISENDE WIPPSCHWANZMÖWE": {
+            "attack": 28,
+            "hp": 3650,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "KRIECHKÄFER": {
+            "attack": 1,
+            "hp": 6,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "KRIECHLAPF": {
+            "attack": 4,
+            "hp": 12,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "KRIECHSPINNE": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "KRISTALL-ORWANE": {
+            "attack": 7,
+            "hp": 80,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "KRISTALLFISCH": {
+            "attack": 3,
+            "hp": 6,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "KRISTALLWASSERPFLANZE": {
+            "attack": 20,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 35,
+            "type": ""
+        },
+        "KRUMME GRÜNSCHIMMER-AMEISE": {
+            "attack": 10,
+            "hp": 100,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "KRUSTENKÄFER": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "KRÄFTIGER GRAUSTEIN-BÄR": {
+            "attack": 100,
+            "hp": 12800,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "KÖNIGSBLUME": {
+            "attack": 11425,
+            "hp": 611862304,
+            "xp": 8,
+            "gold": 145,
+            "type": ""
+        },
+        "LABLABKAKTUS": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "LANGFADEN-SPINNE": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "LANGZAHNAFFE": {
+            "attack": 4,
+            "hp": 12,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "LARAFSTRAUCH": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 0,
+            "type": ""
+        },
+        "LARVENNEST": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "LASTENMULI": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "LAUBWIESENSCHLANGE": {
+            "attack": 2,
+            "hp": 17,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "LAVA-ECHSE": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "LAVA-KÄFER": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 31,
+            "type": ""
+        },
+        "LAVA-WURM": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "LAWINENGEIST": {
+            "attack": 14,
+            "hp": 250,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "LEBENDE BERGSPITZE": {
+            "attack": 13,
+            "hp": 2500,
+            "xp": 3,
+            "gold": 115,
+            "type": ""
+        },
+        "LEBENDE RUINE": {
+            "attack": 15,
+            "hp": 300,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "LEBENDE SALZSTATUE": {
+            "attack": 84,
+            "hp": 5300,
+            "xp": 3,
+            "gold": 0,
+            "type": ""
+        },
+        "LEBENDE STATUE": {
+            "attack": 10,
+            "hp": 240,
+            "xp": 3,
+            "gold": 0,
+            "type": ""
+        },
+        "LEBENDE STRASSE": {
+            "attack": 6058,
+            "hp": 546360000,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "LEBENDER AST": {
+            "attack": 3,
+            "hp": 30,
+            "xp": 1,
+            "gold": 90,
+            "type": ""
+        },
+        "LEBENDER SALZHÜGEL": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "LEBENDES HAUS": {
+            "attack": 500,
+            "hp": 800000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "LEBENDIGER SCHATTEN": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "LEMBRAK-KULTUR": {
+            "attack": 5,
+            "hp": 31,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "LERNFÄHIGER SPINDELSCHREITER": {
+            "attack": 21,
+            "hp": 12138,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "LEUCHTENDE DUNKELSEE-QUALLE": {
+            "attack": 890,
+            "hp": 160000,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "LIANENECHSE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "LICHTPFLANZE": {
+            "attack": 9,
+            "hp": 90,
+            "xp": 1,
+            "gold": 90,
+            "type": ""
+        },
+        "LICHTWURM": {
+            "attack": 3,
+            "hp": 30,
+            "xp": 1,
+            "gold": 3,
+            "type": ""
+        },
+        "LUCHS": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 3,
+            "gold": 52,
+            "type": ""
+        },
+        "LUFTPFERDCHEN": {
+            "attack": 24605,
+            "hp": 1,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "MAGIER DES SCHUTZES": {
+            "attack": 3,
+            "hp": 13,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "MAGISCHE FARBANOMALIE": {
+            "attack": 47,
+            "hp": 7000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "MANKEI": {
+            "attack": 4,
+            "hp": 35,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "MANTICORE": {
+            "attack": 5,
+            "hp": 30,
+            "xp": 2,
+            "gold": 46,
+            "type": ""
+        },
+        "MASU-LACHS": {
+            "attack": 13,
+            "hp": 110,
+            "xp": 2,
+            "gold": 51,
+            "type": ""
+        },
+        "MECHANISCHE SPINNE": {
+            "attack": 4212,
+            "hp": 88200000,
+            "xp": 3,
+            "gold": 26,
+            "type": ""
+        },
+        "MEERESBÜRGER": {
+            "attack": 34,
+            "hp": 5780,
+            "xp": 2,
+            "gold": 27,
+            "type": ""
+        },
+        "MERELLER-KEIM": {
+            "attack": 17,
+            "hp": 290,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "MILCHKUH": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "MINENGOLEM": {
+            "attack": 16,
+            "hp": 1300,
+            "xp": 1,
+            "gold": 62,
+            "type": ""
+        },
+        "MOORGEIST": {
+            "attack": 7,
+            "hp": 70,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "MOOSGEFLECHT": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "MOOSKÄFER": {
+            "attack": 2,
+            "hp": 18,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "MOOSNASHORN": {
+            "attack": 5,
+            "hp": 80,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "MOOSSCHILDKRÖTE": {
+            "attack": 241,
+            "hp": 33817,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "MOOSSKARABÄUS": {
+            "attack": 12,
+            "hp": 190,
+            "xp": 1,
+            "gold": 84,
+            "type": ""
+        },
+        "MOOSSPINNE": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "MOPFCHEN": {
+            "attack": 0,
+            "hp": 1,
+            "xp": 0,
+            "gold": 0,
+            "type": ""
+        },
+        "MORMDAT": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "MORSCHGREIFER": {
+            "attack": 8,
+            "hp": 80,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "MORSCHWALDAFFE": {
+            "attack": 2,
+            "hp": 30,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "MURMELNDES MORMDAT": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "MUTIERTE WOLKENBLUME": {
+            "attack": 1,
+            "hp": 6,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "MUTIERTER MORSCHGREIFER": {
+            "attack": 300,
+            "hp": 800,
+            "xp": 2,
+            "gold": 80,
+            "type": ""
+        },
+        "MUTIGES MORMDAT": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "MÄCHTIGER PROPELLERSTEIN": {
+            "attack": 300,
+            "hp": 500000,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "NACHTFLEDERMAUS": {
+            "attack": 10,
+            "hp": 120,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "NACHTGONK": {
+            "attack": 7,
+            "hp": 80,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "NACHTGONK (QUEST)": {
+            "attack": 7,
+            "hp": 80,
+            "xp": 2,
+            "gold": 35,
+            "type": ""
+        },
+        "NACHTGONK IM DUNKLEN HAUS": {
+            "attack": 7,
+            "hp": 40,
+            "xp": 1,
+            "gold": 69,
+            "type": ""
+        },
+        "NACHTSCHATTENRAUPE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "NARBIGER SCHNEEWURM": {
+            "attack": 2,
+            "hp": 35,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "NAUROFBUSCH": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "NEBELALPAKA": {
+            "attack": 14,
+            "hp": 853,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "NEBELBAUM": {
+            "attack": 602,
+            "hp": 1888320,
+            "xp": 2,
+            "gold": 13,
+            "type": ""
+        },
+        "NEBELBESEN": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "NEBELBLUME": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "NEBELHASE": {
+            "attack": 1,
+            "hp": 15,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "NEBELHÜPFER": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "NEBELKOLOSS": {
+            "attack": 9573,
+            "hp": 248008341,
+            "xp": 10,
+            "gold": 12,
+            "type": ""
+        },
+        "NEBELKORALLE": {
+            "attack": 336,
+            "hp": 1054401,
+            "xp": 2,
+            "gold": 13,
+            "type": ""
+        },
+        "NEBELKREBS": {
+            "attack": 14,
+            "hp": 150,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "NEBELKREISCHER": {
+            "attack": 18,
+            "hp": 250,
+            "xp": 2,
+            "gold": 40,
+            "type": ""
+        },
+        "NEBELKROKODIL": {
+            "attack": 112,
+            "hp": 38239,
+            "xp": 2,
+            "gold": 11,
+            "type": ""
+        },
+        "NEBELKRÄHE": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "NEBELKRÖTE": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "NEBELMÖWE": {
+            "attack": 21,
+            "hp": 2380,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "NEBELMÖWENSCHWARM": {
+            "attack": 3811,
+            "hp": 79452201,
+            "xp": 4,
+            "gold": 16,
+            "type": ""
+        },
+        "NEBELSCHLEIMER": {
+            "attack": 20,
+            "hp": 500,
+            "xp": 1,
+            "gold": 58,
+            "type": ""
+        },
+        "NEBELSCHNECKE": {
+            "attack": 3,
+            "hp": 15,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "NEBELSOLDAT": {
+            "attack": 4937,
+            "hp": 148998362,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "NEBELSPINNE": {
+            "attack": 218,
+            "hp": 208362,
+            "xp": 2,
+            "gold": 8,
+            "type": ""
+        },
+        "NEBELSTEINMOLCH": {
+            "attack": 4,
+            "hp": 140,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "NEBELWELLE": {
+            "attack": 443,
+            "hp": 948576,
+            "xp": 2,
+            "gold": 7,
+            "type": ""
+        },
+        "NEBELWESEN": {
+            "attack": 6,
+            "hp": 100,
+            "xp": 1,
+            "gold": 57,
+            "type": ""
+        },
+        "NEBELWIESEL": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "NEBELZOFE": {
+            "attack": 50,
+            "hp": 191616,
+            "xp": 3,
+            "gold": 100,
+            "type": ""
+        },
+        "NEBELZWERG": {
+            "attack": 32,
+            "hp": 2364,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "NOMADE": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 2,
+            "gold": 12,
+            "type": ""
+        },
+        "NORPI": {
+            "attack": 5,
+            "hp": 60,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "ONLO-SKELETT": {
+            "attack": 18,
+            "hp": 300,
+            "xp": 2,
+            "gold": 28,
+            "type": ""
+        },
+        "ONTOLON": {
+            "attack": 34,
+            "hp": 540,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "ORANG-UTAN": {
+            "attack": 14,
+            "hp": 190,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "ORGANIST": {
+            "attack": 6,
+            "hp": 241,
+            "xp": 2,
+            "gold": 3,
+            "type": ""
+        },
+        "PANTHERFISCH": {
+            "attack": 83,
+            "hp": 808,
+            "xp": 1,
+            "gold": 80,
+            "type": ""
+        },
+        "PANZERROCHEN": {
+            "attack": 94,
+            "hp": 18000,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "PARFUGURN": {
+            "attack": 400,
+            "hp": 15000,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "PEITSCHENDE BLUTLIANE": {
+            "attack": 72,
+            "hp": 14000,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "PFEFUG-AAL": {
+            "attack": 16,
+            "hp": 110,
+            "xp": 2,
+            "gold": 56,
+            "type": ""
+        },
+        "PFEILFISCH": {
+            "attack": 96,
+            "hp": 48020,
+            "xp": 1,
+            "gold": 0,
+            "type": ""
+        },
+        "PFEILSCHNECKE": {
+            "attack": 15,
+            "hp": 150,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "PHASENASSEL": {
+            "attack": 2,
+            "hp": 45,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENENTE": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENFALTER": {
+            "attack": 135,
+            "hp": 45000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENFOSSIL": {
+            "attack": 8500,
+            "hp": 1440004,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENFUCHS": {
+            "attack": 7,
+            "hp": 61,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENGARNELE": {
+            "attack": 30,
+            "hp": 1011,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "PHASENGEIER": {
+            "attack": 9,
+            "hp": 90,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENGREIFER": {
+            "attack": 548,
+            "hp": 3500,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENHUMMER": {
+            "attack": 710,
+            "hp": 260000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENKRAKE": {
+            "attack": 370,
+            "hp": 39000,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "PHASENKREBS": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENKROKODIL": {
+            "attack": 14,
+            "hp": 160,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENKUH": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENLIBELLE": {
+            "attack": 4,
+            "hp": 41,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENLURCH": {
+            "attack": 3,
+            "hp": 27,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENMADE": {
+            "attack": 5,
+            "hp": 35,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENMÜCKE": {
+            "attack": 1,
+            "hp": 18,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENQUALLE": {
+            "attack": 5850,
+            "hp": 950000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENRATTE": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENRAUPE": {
+            "attack": 24,
+            "hp": 350,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENROCHEN": {
+            "attack": 95,
+            "hp": 30000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSALAMANDER": {
+            "attack": 3,
+            "hp": 26,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHABE": {
+            "attack": 6,
+            "hp": 18,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHAF": {
+            "attack": 2,
+            "hp": 12,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHILDKRÖTE": {
+            "attack": 1450,
+            "hp": 540000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHLAMM": {
+            "attack": 1,
+            "hp": 20,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHLANGE": {
+            "attack": 8,
+            "hp": 80,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHLEIM": {
+            "attack": 4,
+            "hp": 36,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHLURCH": {
+            "attack": 19,
+            "hp": 1127,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSCHNECKE": {
+            "attack": 6,
+            "hp": 55,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSEESTERN": {
+            "attack": 250,
+            "hp": 85000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSKORPION": {
+            "attack": 231,
+            "hp": 23000,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSPINNE": {
+            "attack": 25,
+            "hp": 320,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENSTIER": {
+            "attack": 189,
+            "hp": 26661,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENTIGER": {
+            "attack": 59,
+            "hp": 5300,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENVOGEL": {
+            "attack": 2,
+            "hp": 13,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENWACHTEL": {
+            "attack": 3,
+            "hp": 39,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENWIESEL": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENWOLF": {
+            "attack": 23,
+            "hp": 630,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "PHASENWURM": {
+            "attack": 3,
+            "hp": 30,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "PILZWACHTEL": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "PINGUIN": {
+            "attack": 66,
+            "hp": 24558,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "PLÄTSCHERFLUSS-KROKODIL": {
+            "attack": 586,
+            "hp": 112000,
+            "xp": 2,
+            "gold": 36,
+            "type": ""
+        },
+        "POLARISATIONS-OTTER": {
+            "attack": 20,
+            "hp": 300,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "PORTALSTAB-ANBETER": {
+            "attack": 20,
+            "hp": 250,
+            "xp": 1,
+            "gold": 3,
+            "type": ""
+        },
+        "PROPELLERSTEIN": {
+            "attack": 7,
+            "hp": 90,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "PUMA": {
+            "attack": 27,
+            "hp": 432,
+            "xp": 1,
+            "gold": 38,
+            "type": ""
+        },
+        "QUELLHUHN": {
+            "attack": 2,
+            "hp": 4,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "REEN": {
+            "attack": 6,
+            "hp": 50,
+            "xp": 2,
+            "gold": 55,
+            "type": ""
+        },
+        "REICHER WÜSTENSALAMANDER": {
+            "attack": 3,
+            "hp": 12,
+            "xp": 1,
+            "gold": 50,
+            "type": ""
+        },
+        "REISENDER FALLENSTELLER": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "RIESENFALTER-KOKON": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "RIESENHORNISSE": {
+            "attack": 9,
+            "hp": 100,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "RIESENLIBELLE": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "RIESIGE GIFT-DSCHUNGELSCHLANGE": {
+            "attack": 7,
+            "hp": 100,
+            "xp": 2,
+            "gold": 17,
+            "type": ""
+        },
+        "RIESIGE LANDMUSCHEL": {
+            "attack": 43,
+            "hp": 9000,
+            "xp": 1,
+            "gold": 80,
+            "type": ""
+        },
+        "RIESIGE SCHATTENFLEDERMAUS": {
+            "attack": 14,
+            "hp": 400,
+            "xp": 3,
+            "gold": 80,
+            "type": ""
+        },
+        "RIESIGER SALAMANDER": {
+            "attack": 12,
+            "hp": 140,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "RINDENHAGEL": {
+            "attack": 160,
+            "hp": 25600,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "RINDENWALZE": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "RINGELKATZE": {
+            "attack": 19,
+            "hp": 168,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "RINGRAUPE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 4,
+            "type": ""
+        },
+        "ROTBANDWURM": {
+            "attack": 50,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ROTE RIESENLIBELLE": {
+            "attack": 1,
+            "hp": 15,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "ROTE STEINSPINNE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "ROTER BAUMKUSCHLER": {
+            "attack": 5,
+            "hp": 70,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "ROTER FELSWURM": {
+            "attack": 2,
+            "hp": 30,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "ROTER FISCH": {
+            "attack": 282,
+            "hp": 397620,
+            "xp": 3,
+            "gold": 42,
+            "type": ""
+        },
+        "ROTER FLUGHUND": {
+            "attack": 152,
+            "hp": 14789,
+            "xp": 1,
+            "gold": 41,
+            "type": ""
+        },
+        "ROTER SANDHUND": {
+            "attack": 10,
+            "hp": 160,
+            "xp": 1,
+            "gold": 46,
+            "type": ""
+        },
+        "ROTFELL-REH": {
+            "attack": 186,
+            "hp": 32000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ROTFELL-REHKITZ": {
+            "attack": 5,
+            "hp": 35,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "ROTPUNKT-TIGER": {
+            "attack": 8,
+            "hp": 200,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "ROTSCHIMMER-AMEISE": {
+            "attack": 4200,
+            "hp": 650000,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "ROTZAHNHAI": {
+            "attack": 6,
+            "hp": 70,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "RUBINROTER WALDGEIST": {
+            "attack": 3129,
+            "hp": 1895760,
+            "xp": 4,
+            "gold": 70,
+            "type": ""
+        },
+        "RUINEN-WURM": {
+            "attack": 1,
+            "hp": 6,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "RUINENSCHLEICHER": {
+            "attack": 5,
+            "hp": 30,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "RUNENWURM": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 1,
+            "gold": 50,
+            "type": ""
+        },
+        "RÖHRENKREBS": {
+            "attack": 6,
+            "hp": 90,
+            "xp": 1,
+            "gold": 35,
+            "type": ""
+        },
+        "SAFTENDE ITOLOS-SCHRECKE": {
+            "attack": 11,
+            "hp": 111,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "SALZ-MAUS": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "SALZFLECKENSALAMANDER": {
+            "attack": 41,
+            "hp": 3700,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "SALZPICKER-VOGEL": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SALZSÜCHTIGER STAUBSCHLEIFER": {
+            "attack": 5,
+            "hp": 35,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "SALZWASSERVOGEL": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "SANDALIN": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 30,
+            "type": ""
+        },
+        "SANDECHSE": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "SANDFRESSERWURM": {
+            "attack": 6,
+            "hp": 70,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "SANDGEIST": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "SANDGOLEM": {
+            "attack": 1,
+            "hp": 26,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "SANDVOGEL": {
+            "attack": 8,
+            "hp": 80,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "SAUGFISCH": {
+            "attack": 2,
+            "hp": 16,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SAVANNEN-VOGEL": {
+            "attack": 2,
+            "hp": 12,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SCHACHTELMESSERFARN": {
+            "attack": 37,
+            "hp": 700,
+            "xp": 1,
+            "gold": 35,
+            "type": ""
+        },
+        "SCHAF": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "SCHATTEN DER DUNKELHEIT": {
+            "attack": 14,
+            "hp": 180,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "SCHATTEN DES WELTENWANDLERS": {
+            "attack": 10,
+            "hp": 121,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SCHATTENGEIST": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SCHATTENKREATUR XY (NPC)": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SCHATTENMOOS": {
+            "attack": 3,
+            "hp": 60,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SCHATTENSALAMANDER": {
+            "attack": 35,
+            "hp": 3200,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "SCHATTENSKORPION": {
+            "attack": 800,
+            "hp": 6000,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "SCHATTENWESEN": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "SCHATTENWIESEL": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SCHATTENWOLF": {
+            "attack": 7,
+            "hp": 20,
+            "xp": 3,
+            "gold": 12,
+            "type": ""
+        },
+        "SCHAUFELMAULWURF": {
+            "attack": 15,
+            "hp": 150,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SCHILLERNDER KÜSTLING": {
+            "attack": 5,
+            "hp": 62,
+            "xp": 1,
+            "gold": 24,
+            "type": ""
+        },
+        "SCHIMMERENTE": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 3,
+            "gold": 52,
+            "type": ""
+        },
+        "SCHIMMERSTEIN": {
+            "attack": 0,
+            "hp": 3,
+            "xp": 3,
+            "gold": 1,
+            "type": ""
+        },
+        "SCHLAMMKAKTUS": {
+            "attack": 33,
+            "hp": 800,
+            "xp": 2,
+            "gold": 18,
+            "type": ""
+        },
+        "SCHLEIMGREIFER": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 0,
+            "type": ""
+        },
+        "SCHLEIMRAUPE": {
+            "attack": 12,
+            "hp": 180,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "SCHLINGENDE LIANENPEITSCHE": {
+            "attack": 26,
+            "hp": 5000,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "SCHLURUM": {
+            "attack": 15,
+            "hp": 250,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "SCHMATZENDE BLATTSPINNE": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "SCHMERZSTEIN": {
+            "attack": 1,
+            "hp": 19,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SCHMETTERLINGSFISCH": {
+            "attack": 18,
+            "hp": 1980,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "SCHNEEFISCH": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "SCHNEEHASE": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SCHNEEHUHN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SCHNEEKÄFER": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SCHNEEKÄFER-KOKON": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "SCHNEEKÄFER-RAUPE": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SCHNEELANGOHRHASE": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "SCHNEESTURMGEIST": {
+            "attack": 127,
+            "hp": 16000,
+            "xp": 3,
+            "gold": 53,
+            "type": ""
+        },
+        "SCHNEEWIESEL": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SCHNEEWURM": {
+            "attack": 2,
+            "hp": 35,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SCHNELLER STACHELSPRUNGKREBS": {
+            "attack": 1674,
+            "hp": 3132800,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "SCHNELLER STEINMOLCH": {
+            "attack": 10,
+            "hp": 120,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SCHOTTERRAUPE": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "SCHWACHER SPORENTRÄGER": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 0,
+            "gold": 5,
+            "type": ""
+        },
+        "SCHWACHER UNTERWELT-DÄMON": {
+            "attack": 14,
+            "hp": 260,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "SCHWACHES STACHELKROKODIL": {
+            "attack": 12,
+            "hp": 121,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "SCHWANGERES SCHNEEHUHN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SCHWARM-KRIEGERIN": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 1,
+            "gold": 52,
+            "type": ""
+        },
+        "SCHWARZE KEITEL-SPINNE": {
+            "attack": 4,
+            "hp": 18,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "SCHWARZE NETZSPINNE": {
+            "attack": 52,
+            "hp": 485,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "SCHWARZWESPEN": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "SCHWEBEHÖRNCHEN": {
+            "attack": 18,
+            "hp": 149,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "SCHWIMMENDES TENTAKEL": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 6,
+            "type": ""
+        },
+        "SEESCHLAMM": {
+            "attack": 9,
+            "hp": 100,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SEETANG-ÖLFISCH": {
+            "attack": 120,
+            "hp": 7190,
+            "xp": 3,
+            "gold": 120,
+            "type": ""
+        },
+        "SEETANGFISCH": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "SEETANGMAGIER": {
+            "attack": 3230,
+            "hp": 51232001,
+            "xp": 4,
+            "gold": 66,
+            "type": ""
+        },
+        "SEEUNGEHEUER": {
+            "attack": 123456,
+            "hp": 2000000000,
+            "xp": 25,
+            "gold": 100,
+            "type": ""
+        },
+        "SEICHTWASSERKROKODIL": {
+            "attack": 94,
+            "hp": 52088,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "SEICHTWASSERPILZ": {
+            "attack": 2,
+            "hp": 70,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "SELTSAMER PINGUIN": {
+            "attack": 11,
+            "hp": 1111,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "SELTSAMES TIER": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SEPTAFRON": {
+            "attack": 380,
+            "hp": 4000,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "SERBANTHI": {
+            "attack": 9,
+            "hp": 90,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "SEUCHENFLÜGLER": {
+            "attack": 2,
+            "hp": 4,
+            "xp": 1,
+            "gold": 4,
+            "type": ""
+        },
+        "SIEDESTEIN-DAMPFGEIST": {
+            "attack": 80,
+            "hp": 8000,
+            "xp": 2,
+            "gold": 80,
+            "type": ""
+        },
+        "SIEDESTEINKÄFER": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 2,
+            "gold": 80,
+            "type": ""
+        },
+        "SILBERFUCHS": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SILBERGRAS-SPINNE": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "SILBERSTEIN-SALAMANDER": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "SILBERWURMHAUFEN": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "SILFIN": {
+            "attack": 6,
+            "hp": 320,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "SINGENDER BETTLER": {
+            "attack": 15,
+            "hp": 578,
+            "xp": 1,
+            "gold": 3,
+            "type": ""
+        },
+        "SITZSTEIN": {
+            "attack": 1,
+            "hp": 9,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "SLOFOYFISCH": {
+            "attack": 13,
+            "hp": 265,
+            "xp": 1,
+            "gold": 80,
+            "type": ""
+        },
+        "SOLARDA-FISCH": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "SPINDELSCHREITER": {
+            "attack": 13,
+            "hp": 1500,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SPORENTRÄGER": {
+            "attack": 4,
+            "hp": 40,
+            "xp": 0,
+            "gold": 12,
+            "type": ""
+        },
+        "SPORLING": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SPRENGPOCKENSPINNE": {
+            "attack": 1,
+            "hp": 100,
+            "xp": 0,
+            "gold": 5,
+            "type": ""
+        },
+        "SPRINGKÄFER": {
+            "attack": 1,
+            "hp": 9,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "SPRUNGECHSE": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "SPRÖDER AST": {
+            "attack": 3,
+            "hp": 9,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "SPRÜHREGENWURM": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "STABFISCH": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "STABKREBS": {
+            "attack": 3,
+            "hp": 18,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "STABSCHRECKE": {
+            "attack": 8,
+            "hp": 70,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "STACHELBLUTDICKICHT": {
+            "attack": 81,
+            "hp": 6561,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "STACHELFISCH": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "STACHELKROKODIL": {
+            "attack": 510,
+            "hp": 71000,
+            "xp": 2,
+            "gold": 23,
+            "type": ""
+        },
+        "STACHELKÄFER": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "STACHELSCHILDKRÖTE": {
+            "attack": 590,
+            "hp": 79000,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "STACHELSCHRECK": {
+            "attack": 7,
+            "hp": 80,
+            "xp": 1,
+            "gold": 34,
+            "type": ""
+        },
+        "STACHELSPRUNGKREBS": {
+            "attack": 80,
+            "hp": 3000,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "STADTMAUERSEGLER": {
+            "attack": 49,
+            "hp": 14844,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "STAUB-MAUS": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "STAUB-SKELETT": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "STAUBASSEL": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "STAUBFLATTERER": {
+            "attack": 1,
+            "hp": 10,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "STAUBGEIST": {
+            "attack": 16,
+            "hp": 800,
+            "xp": 1,
+            "gold": 25,
+            "type": ""
+        },
+        "STAUBIGE PILZWACHTEL": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "STAUBSCHLEIFER": {
+            "attack": 5,
+            "hp": 35,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "STECHMÜCKEN": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "STEGOVAR": {
+            "attack": 2,
+            "hp": 17,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "STEIN-GAMASCHE": {
+            "attack": 9,
+            "hp": 87,
+            "xp": 2,
+            "gold": 38,
+            "type": ""
+        },
+        "STEIN-TENTAKEL": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 17,
+            "type": ""
+        },
+        "STEINBÄR": {
+            "attack": 2390,
+            "hp": 30730120,
+            "xp": 0,
+            "gold": 0,
+            "type": ""
+        },
+        "STEINGOLEM": {
+            "attack": 12,
+            "hp": 320,
+            "xp": 2,
+            "gold": 103,
+            "type": ""
+        },
+        "STEINHUHN": {
+            "attack": 2,
+            "hp": 30,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "STEINKATZE": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "STEINKRALLER": {
+            "attack": 369,
+            "hp": 18400,
+            "xp": 2,
+            "gold": 30,
+            "type": ""
+        },
+        "STEINKRATZKÄFER": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 7,
+            "type": ""
+        },
+        "STEINKÄFER": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "STEINMOLCH": {
+            "attack": 4,
+            "hp": 40,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "STEINPICKER-VOGEL": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "STEINSCHALENKÄFER": {
+            "attack": 14,
+            "hp": 1200,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "STEINSCHLANGE": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        },
+        "STEINSPINNE": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "STEINTURM": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "STEPPENWOLF": {
+            "attack": 4,
+            "hp": 10,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "STERBENDER BROTANDRO-VIRUS": {
+            "attack": 6,
+            "hp": 23,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "STERBENDER MERELLER-KEIM": {
+            "attack": 7,
+            "hp": 18,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "STERBENDES GERFTAR-BAKTERIUM": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "STERBLICHE WALDRATTE": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "STERNENZERSTÖRER": {
+            "attack": 100,
+            "hp": 60000,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "STIELAUGENFORSCH": {
+            "attack": 7,
+            "hp": 58,
+            "xp": 1,
+            "gold": 33,
+            "type": ""
+        },
+        "STORORAPTOR": {
+            "attack": 480,
+            "hp": 68000,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "STRANDLOKIL": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 33,
+            "type": ""
+        },
+        "STRAUCHKÄFER": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SUMPFLANDKRÖTE": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "SUMPFSCHRECKE": {
+            "attack": 12,
+            "hp": 170,
+            "xp": 2,
+            "gold": 40,
+            "type": ""
+        },
+        "SUMPFSPINNE": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "SÜDMEER-TUCAN": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "TAPIR": {
+            "attack": 12,
+            "hp": 101,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "TAUCHER": {
+            "attack": 115,
+            "hp": 6938,
+            "xp": 3,
+            "gold": 120,
+            "type": ""
+        },
+        "TEIDAM": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 2,
+            "gold": 12,
+            "type": ""
+        },
+        "TEMPELHÜPFER": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "TEMPELKRABBLER": {
+            "attack": 2,
+            "hp": 18,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "TEMPORALER FALTER": {
+            "attack": 8,
+            "hp": 35,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "TENTAKEL": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 57,
+            "type": ""
+        },
+        "TENTAKEL AUS GOLD": {
+            "attack": 6,
+            "hp": 40,
+            "xp": 2,
+            "gold": 92,
+            "type": ""
+        },
+        "THOROM LOGRID": {
+            "attack": 7,
+            "hp": 50,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "TIEFSEE-AAL": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 38,
+            "type": ""
+        },
+        "TODESMOOR-KROKODIL": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 58,
+            "type": ""
+        },
+        "TOLLOSCHEIN-FRESSER": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 3,
+            "type": ""
+        },
+        "TONAR-REPTIL": {
+            "attack": 800,
+            "hp": 130000,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "TORPON-SCHLANGE": {
+            "attack": 60000,
+            "hp": 8000000,
+            "xp": 1,
+            "gold": 43,
+            "type": ""
+        },
+        "TOTE BERGSPITZE": {
+            "attack": 53,
+            "hp": 10200,
+            "xp": 3,
+            "gold": 43,
+            "type": ""
+        },
+        "TOTE KUH": {
+            "attack": 3,
+            "hp": 1,
+            "xp": 0,
+            "gold": 6,
+            "type": ""
+        },
+        "TOTES WAWRUZ": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "TRIEFENDER WANDSCHLEIM": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "TROCKENWURM": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 38,
+            "type": ""
+        },
+        "TROPFSTEINWANDLER": {
+            "attack": 15,
+            "hp": 150,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "TROPFSTEINWURM": {
+            "attack": 3,
+            "hp": 20,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "UHNAR-BAZILLUS": {
+            "attack": 480,
+            "hp": 2455,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "UMNEBELTES SCHLANGENTIER": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 1,
+            "type": ""
+        },
+        "UNBEKANNTER AFFE": {
+            "attack": 8,
+            "hp": 80,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "UNDARON": {
+            "attack": 10,
+            "hp": 1,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "UNSTERBLICHE WALDRATTE": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "UNTERTAGE-SALAMANDER": {
+            "attack": 9,
+            "hp": 800,
+            "xp": 1,
+            "gold": 56,
+            "type": ""
+        },
+        "UNTERWELT-DÄMON": {
+            "attack": 240,
+            "hp": 31000,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "UNTOTE SCHILDKRÖTE": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 1,
+            "gold": 100,
+            "type": ""
+        },
+        "UNTOTER BÜRGER": {
+            "attack": 13,
+            "hp": 200,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "UNTOTER GRUBENSINGVOGEL": {
+            "attack": 8,
+            "hp": 700,
+            "xp": 1,
+            "gold": 39,
+            "type": ""
+        },
+        "UNTOTER HÖLLENHUND": {
+            "attack": 29,
+            "hp": 1600,
+            "xp": 2,
+            "gold": 47,
+            "type": ""
+        },
+        "UNTOTER MINENARBEITER": {
+            "attack": 15,
+            "hp": 800,
+            "xp": 2,
+            "gold": 51,
+            "type": ""
+        },
+        "UNTOTER WINTERBÜRGER": {
+            "attack": 13,
+            "hp": 200,
+            "xp": 2,
+            "gold": 34,
+            "type": ""
+        },
+        "URALTE BLUTEICHE": {
+            "attack": 1496,
+            "hp": 2238016,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "URALTER UNTERWELT-DÄMON": {
+            "attack": 2300,
+            "hp": 370000,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "URWALDEULE": {
+            "attack": 17,
+            "hp": 230,
+            "xp": 1,
+            "gold": 37,
+            "type": ""
+        },
+        "URWALDKUH": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 6,
+            "type": ""
+        },
+        "URWALDSCHLANGE": {
+            "attack": 9,
+            "hp": 120,
+            "xp": 1,
+            "gold": 36,
+            "type": ""
+        },
+        "URWALDSCHNECKE": {
+            "attack": 4,
+            "hp": 40,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "URWALDSPINNE": {
+            "attack": 5,
+            "hp": 50,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "VERIRRTER AASGEIER": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 4,
+            "type": ""
+        },
+        "VERIRRTER TEMPELSCHLEIM": {
+            "attack": 3,
+            "hp": 19,
+            "xp": 1,
+            "gold": 11,
+            "type": ""
+        },
+        "VERROSTETER WÄCHTERGOLEM": {
+            "attack": 5,
+            "hp": 20,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "VERRÜCKTER FROSTDÄMON": {
+            "attack": 65,
+            "hp": 12000,
+            "xp": 2,
+            "gold": 21,
+            "type": ""
+        },
+        "VERSCHNEITES GERÖLLWIESEL": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "VERSTÜMMELTER MORSCHGREIFER": {
+            "attack": 4,
+            "hp": 35,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "VERSTÜMMELTES HOLZMONSTER": {
+            "attack": 465,
+            "hp": 72000,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "VERTROCKNETER SEICHTWASSERPILZ": {
+            "attack": 1,
+            "hp": 70,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "VERWEHTER SANDGEIST": {
+            "attack": 4,
+            "hp": 20,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "VERWILDETER, BLAUSILBERNER GLODO": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 2,
+            "gold": 29,
+            "type": ""
+        },
+        "VERWILDETER, ROTSILBERNER GLODO": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 2,
+            "gold": 5,
+            "type": ""
+        },
+        "VERWIRRTES SCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "VERWIRRTES SÄGEZAHNBLATT": {
+            "attack": 50000,
+            "hp": 3000000,
+            "xp": 20,
+            "gold": 35,
+            "type": ""
+        },
+        "VERWUNDETE NEBELMAUS": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "VERZAUBERTE NACHTFLEDERMAUS": {
+            "attack": 520,
+            "hp": 56213,
+            "xp": 1,
+            "gold": 30,
+            "type": ""
+        },
+        "VERZAUBERTER ENERGIEWURM": {
+            "attack": 3,
+            "hp": 40,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "VIPARA-JÄGER": {
+            "attack": 28,
+            "hp": 4253,
+            "xp": 1,
+            "gold": 0,
+            "type": ""
+        },
+        "VORHOF-KOORDINATOR": {
+            "attack": 10,
+            "hp": 160,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "VULKANDÄMON": {
+            "attack": 30,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 31,
+            "type": ""
+        },
+        "WACHSENDE EFEURANKE": {
+            "attack": 68,
+            "hp": 9305,
+            "xp": 2,
+            "gold": 22,
+            "type": ""
+        },
+        "WALDHÜPFER": {
+            "attack": 23,
+            "hp": 200,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "WALDRATTE": {
+            "attack": 1,
+            "hp": 7,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "WALDSCHLURCH": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "WALDSCHLURCH-SKELETT": {
+            "attack": 3,
+            "hp": 21,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "WALDSPINNE": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "WALDVOGEL": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "WALLWURZEL": {
+            "attack": 835,
+            "hp": 3654781,
+            "xp": 3,
+            "gold": 6,
+            "type": ""
+        },
+        "WANDELNDE BLUTESCHE": {
+            "attack": 777,
+            "hp": 603729,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "WANDSCHLEIM": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "WASSERBÄR": {
+            "attack": 4,
+            "hp": 35,
+            "xp": 1,
+            "gold": 34,
+            "type": ""
+        },
+        "WASSERKATZE": {
+            "attack": 1,
+            "hp": 3,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "WASSERSCHLANGE": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 36,
+            "type": ""
+        },
+        "WASSERTENTAKEL": {
+            "attack": 5,
+            "hp": 60,
+            "xp": 1,
+            "gold": 18,
+            "type": ""
+        },
+        "WAWRUZ": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 1,
+            "gold": 14,
+            "type": ""
+        },
+        "WEGELAGERER": {
+            "attack": 10,
+            "hp": 280,
+            "xp": 2,
+            "gold": 25,
+            "type": ""
+        },
+        "WEINENDE KASTANIE": {
+            "attack": 12,
+            "hp": 144,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "WEISER ONTOLON": {
+            "attack": 7500,
+            "hp": 1800000,
+            "xp": 5,
+            "gold": 18,
+            "type": ""
+        },
+        "WEISSE FETTMADE": {
+            "attack": 5,
+            "hp": 552934023,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "WELTRAUM-KRAKE": {
+            "attack": 13,
+            "hp": 200,
+            "xp": 1,
+            "gold": 21,
+            "type": ""
+        },
+        "WIESENPFEIFER": {
+            "attack": 1,
+            "hp": 8,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "WIESENSCHRECKE": {
+            "attack": 2,
+            "hp": 12,
+            "xp": 1,
+            "gold": 26,
+            "type": ""
+        },
+        "WILDWASSERGANS": {
+            "attack": 12,
+            "hp": 101,
+            "xp": 1,
+            "gold": 32,
+            "type": ""
+        },
+        "WILDWASSERKREBS": {
+            "attack": 192,
+            "hp": 38500,
+            "xp": 1,
+            "gold": 28,
+            "type": ""
+        },
+        "WINDGEIST": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "WINDGEIST (QUEST)": {
+            "attack": 5,
+            "hp": 40,
+            "xp": 1,
+            "gold": 29,
+            "type": ""
+        },
+        "WIPPSCHWANZMÖWE": {
+            "attack": 28,
+            "hp": 3650,
+            "xp": 1,
+            "gold": 17,
+            "type": ""
+        },
+        "WIRBELNDER RINDENSPEER": {
+            "attack": 91,
+            "hp": 8281,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "WOGENREITER": {
+            "attack": 63,
+            "hp": 12248,
+            "xp": 1,
+            "gold": 19,
+            "type": ""
+        },
+        "WOLF DER FINSTERNIS": {
+            "attack": 4,
+            "hp": 30,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "WOLKENFLATTERER": {
+            "attack": 35,
+            "hp": 6000,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "WOLKENSCHAF": {
+            "attack": 2,
+            "hp": 8,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "WOLLIGES GOLDSCHAF": {
+            "attack": 1,
+            "hp": 5,
+            "xp": 1,
+            "gold": 12,
+            "type": ""
+        },
+        "WUCHERNDE EFEURANKE": {
+            "attack": 6,
+            "hp": 80,
+            "xp": 1,
+            "gold": 5,
+            "type": ""
+        },
+        "WURZELKRALLE": {
+            "attack": 142,
+            "hp": 20164,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "WURZELNDE BLUTPEITSCHE": {
+            "attack": 84,
+            "hp": 7056,
+            "xp": 0,
+            "gold": 1,
+            "type": ""
+        },
+        "WURZELWURM": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 16,
+            "type": ""
+        },
+        "WÄCHTER DER ZELLE": {
+            "attack": 6,
+            "hp": 120,
+            "xp": 1,
+            "gold": 103,
+            "type": ""
+        },
+        "WÄCHTER DES VULKANS": {
+            "attack": 10,
+            "hp": 200,
+            "xp": 3,
+            "gold": 46,
+            "type": ""
+        },
+        "WÄCHTERGOLEM": {
+            "attack": 50,
+            "hp": 1300,
+            "xp": 1,
+            "gold": 20,
+            "type": ""
+        },
+        "WÜHLRATTE": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 1,
+            "gold": 15,
+            "type": ""
+        },
+        "WÜSTEN-EKTOFRON": {
+            "attack": 52,
+            "hp": 5521,
+            "xp": 1,
+            "gold": 22,
+            "type": ""
+        },
+        "WÜSTENMAUS": {
+            "attack": 1,
+            "hp": 2,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "WÜSTENPLANKTON": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "WÜSTENSALAMANDER": {
+            "attack": 1,
+            "hp": 12,
+            "xp": 1,
+            "gold": 2,
+            "type": ""
+        },
+        "WÜSTENSCHRECK": {
+            "attack": 3,
+            "hp": 10,
+            "xp": 1,
+            "gold": 40,
+            "type": ""
+        },
+        "WÜSTENSPINNE": {
+            "attack": 2,
+            "hp": 7,
+            "xp": 1,
+            "gold": 23,
+            "type": ""
+        },
+        "WÜTENDE MOOSWURZEL": {
+            "attack": 33,
+            "hp": 530,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "ZAUBERER DER BERGWIESEN": {
+            "attack": 14,
+            "hp": 300,
+            "xp": 3,
+            "gold": 69,
+            "type": ""
+        },
+        "ZITTERDACHS": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 3,
+            "gold": 52,
+            "type": ""
+        },
+        "ZITTERNDE MOOSWURZEL": {
+            "attack": 2,
+            "hp": 20,
+            "xp": 1,
+            "gold": 8,
+            "type": ""
+        },
+        "ZUKUVOGEL": {
+            "attack": 2,
+            "hp": 15,
+            "xp": 1,
+            "gold": 9,
+            "type": ""
+        },
+        "ZWEIBEINIGE WALDSPINNE": {
+            "attack": 3,
+            "hp": 25,
+            "xp": 1,
+            "gold": 10,
+            "type": ""
+        },
+        "ZWIELICHTIGER HÄNDLER": {
+            "attack": 38,
+            "hp": 8672,
+            "xp": 1,
+            "gold": 13,
+            "type": ""
+        }
+    },
+    "group_npcs": {
+        "26-KÖPFIGER SALAMANDER": {
+            "attack": 67,
+            "hp": 25000,
+            "xp": 1,
+            "gold": 2,
+            "type": "Group"
+        },
+        "ANGEPASSTER ONTOLON": {
+            "attack": 80,
+            "hp": 10000,
+            "xp": 5,
+            "gold": 60,
+            "type": "Group"
+        },
+        "BARU-SCHRECKE": {
+            "attack": 50,
+            "hp": 7000,
+            "xp": 3,
+            "gold": 20,
+            "type": "Group"
+        },
+        "BEHÜTER DER KATHEDRALE": {
+            "attack": 55,
+            "hp": 1000,
+            "xp": 3,
+            "gold": 2,
+            "type": "Group"
+        },
+        "BERNSTEIN-DOKUN": {
+            "attack": 100,
+            "hp": 80000,
+            "xp": 10,
+            "gold": 80,
+            "type": "Group"
+        },
+        "BEUTELTIGER": {
+            "attack": 40,
+            "hp": 8000,
+            "xp": 3,
+            "gold": 20,
+            "type": "Group"
+        },
+        "BIERBRAUMEISTER": {
+            "attack": 60,
+            "hp": 200,
+            "xp": 1,
+            "gold": 19,
+            "type": "Group"
+        },
+        "BLAUER LANDFISCH": {
+            "attack": 30,
+            "hp": 29000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "BLAUES STACHEL-KOWU": {
+            "attack": 41,
+            "hp": 10000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "BLUTPROBENWESEN": {
+            "attack": 0,
+            "hp": 0,
+            "xp": 0,
+            "gold": 0,
+            "type": "Group"
+        },
+        "BULLIGES ERD-SKELKOS": {
+            "attack": 85,
+            "hp": 300,
+            "xp": 1,
+            "gold": 25,
+            "type": "Group"
+        },
+        "DIENER DES FEUERS": {
+            "attack": 150,
+            "hp": 20000,
+            "xp": 2,
+            "gold": 50,
+            "type": "Group"
+        },
+        "DUNKELMORIN": {
+            "attack": 800,
+            "hp": 80000,
+            "xp": 5,
+            "gold": 80,
+            "type": "Group"
+        },
+        "DUNKELSCHLAMM-WURM": {
+            "attack": 23,
+            "hp": 3000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "DUNKELSTERN-SEHER": {
+            "attack": 255,
+            "hp": 40000,
+            "xp": 0,
+            "gold": 2,
+            "type": "Group"
+        },
+        "DUNKELWALD-SKELETT": {
+            "attack": 90,
+            "hp": 400000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "EIS-TORNADO": {
+            "attack": 200,
+            "hp": 17000,
+            "xp": 0,
+            "gold": 100,
+            "type": "Group"
+        },
+        "EISWELT-ECHSE": {
+            "attack": 340,
+            "hp": 10000,
+            "xp": 2,
+            "gold": 50,
+            "type": "Group"
+        },
+        "ELEMENT-WURM": {
+            "attack": 1132,
+            "hp": 50000,
+            "xp": 5,
+            "gold": 100,
+            "type": "Group"
+        },
+        "ERZBOHRMASCHINE": {
+            "attack": 26,
+            "hp": 16000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "FEUERWACHTEL": {
+            "attack": 17,
+            "hp": 4000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "FINSTERER MAGIER": {
+            "attack": 42,
+            "hp": 5,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "FLIMMERNDE FARBANOMALIE": {
+            "attack": 26,
+            "hp": 1000,
+            "xp": 1,
+            "gold": 15,
+            "type": "Group"
+        },
+        "FLONDOR": {
+            "attack": 996,
+            "hp": 200000,
+            "xp": 3,
+            "gold": 57,
+            "type": "Group"
+        },
+        "GEPANZERTE EIDECHSE": {
+            "attack": 63,
+            "hp": 37000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "GIERIGER BARSCH": {
+            "attack": 376,
+            "hp": 100000,
+            "xp": 1,
+            "gold": 100,
+            "type": "Group"
+        },
+        "GIGANTISCHE SEEROSE": {
+            "attack": 1,
+            "hp": 15,
+            "xp": 0,
+            "gold": 0,
+            "type": "Group"
+        },
+        "GIGANTISCHER SCHNEEWURM": {
+            "attack": 2878,
+            "hp": 142521,
+            "xp": 5,
+            "gold": 200,
+            "type": "Group"
+        },
+        "GOLDBARONESSE": {
+            "attack": 71,
+            "hp": 10000,
+            "xp": 3,
+            "gold": 250,
+            "type": "Group"
+        },
+        "GROSSER PRÄRIESKORPION": {
+            "attack": 19,
+            "hp": 1000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "GRÜNBAUM-AFFE": {
+            "attack": 70,
+            "hp": 4000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "GRÜNES STACHEL-KOWU": {
+            "attack": 41,
+            "hp": 5000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "HALBVERARBEITETER TARUNER": {
+            "attack": 100,
+            "hp": 10000,
+            "xp": 0,
+            "gold": 27,
+            "type": "Group"
+        },
+        "HERRSCHER DER EISIGEN DÄMONEN": {
+            "attack": 64,
+            "hp": 25000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "HERZ DES BLUTWALDES": {
+            "attack": 33,
+            "hp": 400000,
+            "xp": 5,
+            "gold": 57,
+            "type": "Group"
+        },
+        "HOLZBEISSER": {
+            "attack": 1000,
+            "hp": 100000,
+            "xp": 3,
+            "gold": 100,
+            "type": "Group"
+        },
+        "KLIPPENSPRINGER": {
+            "attack": 1640,
+            "hp": 173804,
+            "xp": 5,
+            "gold": 12,
+            "type": "Group"
+        },
+        "KOLLEKTIVER SALZHÜGEL": {
+            "attack": 25,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "KRANKER SCHMETTERLING": {
+            "attack": 1791,
+            "hp": 50000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "KREIDEKROKODIL": {
+            "attack": 183,
+            "hp": 18381,
+            "xp": 0,
+            "gold": 20,
+            "type": "Group"
+        },
+        "KÖNIGLICHER SCHMETTERLING": {
+            "attack": 37,
+            "hp": 8000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "LARPAN": {
+            "attack": 38,
+            "hp": 80000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "LEBENDE WALDWURZEL": {
+            "attack": 80,
+            "hp": 4000,
+            "xp": 2,
+            "gold": 30,
+            "type": "Group"
+        },
+        "LEBENDER STEINGIPFEL": {
+            "attack": 4759,
+            "hp": 875346,
+            "xp": 6,
+            "gold": 48,
+            "type": "Group"
+        },
+        "LEBENDER TROPFSTEIN": {
+            "attack": 37,
+            "hp": 17000,
+            "xp": 2,
+            "gold": 2,
+            "type": "Group"
+        },
+        "LOROKTOM, DER GROSSE STEINGOLEM": {
+            "attack": 22,
+            "hp": 3000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "LUFTSCHLOSS": {
+            "attack": 1200,
+            "hp": 5000000,
+            "xp": 5,
+            "gold": 107,
+            "type": "Group"
+        },
+        "MASSIVE LANDQUALLE": {
+            "attack": 52,
+            "hp": 8000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "MUTIERTE KORALLE": {
+            "attack": 7,
+            "hp": 222,
+            "xp": 2,
+            "gold": 30,
+            "type": "Group"
+        },
+        "NEBELPRINZESSIN": {
+            "attack": 22222,
+            "hp": 1000000,
+            "xp": 0,
+            "gold": 0,
+            "type": "Group"
+        },
+        "NEBELWOLF": {
+            "attack": 120,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "PAPAGEI": {
+            "attack": 29,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "PHASENSKELKOS": {
+            "attack": 75,
+            "hp": 10000,
+            "xp": 1,
+            "gold": 1,
+            "type": "Group"
+        },
+        "REBENDOS": {
+            "attack": 71,
+            "hp": 10000,
+            "xp": 3,
+            "gold": 100,
+            "type": "Group"
+        },
+        "RUBINKORALLE": {
+            "attack": 25,
+            "hp": 10000,
+            "xp": 2,
+            "gold": 0,
+            "type": "Group"
+        },
+        "SCHATTENKREATUR XY (GRUPPEN-NPC)": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": "Group"
+        },
+        "SCHATTENKROKODIL": {
+            "attack": 21,
+            "hp": 3000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "SEELENDIEB": {
+            "attack": 71,
+            "hp": 10000,
+            "xp": 3,
+            "gold": 100,
+            "type": "Group"
+        },
+        "SIEDESTEIN-MORSCHGREIFER": {
+            "attack": 30,
+            "hp": 30000,
+            "xp": 2,
+            "gold": 30,
+            "type": "Group"
+        },
+        "SILBERFLUSS-BÄR": {
+            "attack": 8,
+            "hp": 300,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "SIRAMÜCKEN-SCHWARM": {
+            "attack": 50,
+            "hp": 12000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "SOHN DES WIESENGEISTES": {
+            "attack": 16,
+            "hp": 800,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "SPINDELSCHREITER-ÜBERWACHER": {
+            "attack": 93,
+            "hp": 10000,
+            "xp": 5,
+            "gold": 50,
+            "type": "Group"
+        },
+        "SPINNE DER STAUBNETZE": {
+            "attack": 80,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "STAUBSCHLEIFER-KÖNIGIN": {
+            "attack": 29,
+            "hp": 12000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "STÖRRISCHER STORORAPTOR": {
+            "attack": 165,
+            "hp": 25000,
+            "xp": 2,
+            "gold": 2,
+            "type": "Group"
+        },
+        "TEIDAM-BABY": {
+            "attack": 3,
+            "hp": 45,
+            "xp": 2,
+            "gold": 69,
+            "type": "Group"
+        },
+        "TEMPELHÜTER": {
+            "attack": 25,
+            "hp": 4000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "TEMPELWÄCHTER": {
+            "attack": 35,
+            "hp": 12000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Group"
+        },
+        "TENTAKELBESETZTER PHASENRISS": {
+            "attack": 1000,
+            "hp": 25000,
+            "xp": 1,
+            "gold": 1,
+            "type": "Group"
+        },
+        "TOLLWÜTIGER GRAUSTEIN-BÄR": {
+            "attack": 1,
+            "hp": 25000,
+            "xp": 1,
+            "gold": 16,
+            "type": "Group"
+        },
+        "TURMGEIST": {
+            "attack": 20,
+            "hp": 0,
+            "xp": 0,
+            "gold": 0,
+            "type": "Group"
+        },
+        "TURMWART": {
+            "attack": 0,
+            "hp": 20,
+            "xp": 8,
+            "gold": 67,
+            "type": "Group"
+        },
+        "UNTOTER KAKLATRON": {
+            "attack": 32,
+            "hp": 20,
+            "xp": 0,
+            "gold": 100,
+            "type": "Group"
+        },
+        "UNTOTER LAUBBÄR": {
+            "attack": 3829,
+            "hp": 20,
+            "xp": 0,
+            "gold": 100,
+            "type": "Group"
+        },
+        "UNTOTER WANDSCHLEIM": {
+            "attack": 372,
+            "hp": 20,
+            "xp": 0,
+            "gold": 100,
+            "type": "Group"
+        },
+        "VERTIN": {
+            "attack": 27,
+            "hp": 10080,
+            "xp": 3,
+            "gold": 80,
+            "type": "Group"
+        },
+        "WALDMONSTER": {
+            "attack": 12,
+            "hp": 500,
+            "xp": 2,
+            "gold": 120,
+            "type": "Group"
+        },
+        "WANDELNDER LAUBBAUM": {
+            "attack": 20,
+            "hp": 6000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "WELTENWANDLER": {
+            "attack": 140,
+            "hp": 100000,
+            "xp": 5,
+            "gold": 80,
+            "type": "Group"
+        },
+        "WÜSTENKRAKE": {
+            "attack": 27,
+            "hp": 7000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        },
+        "ZARTBESAITETER GOLDBALLENWURM": {
+            "attack": 280,
+            "hp": 33000,
+            "xp": 2,
+            "gold": 100,
+            "type": "Group"
+        }
+    },
+    "unique_npcs": {
+        "ABTRÜNNIGE WOLKE": {
+            "attack": 95,
+            "hp": 25000,
+            "xp": 2,
+            "gold": 10,
+            "type": "Unique"
+        },
+        "ANATUBISCHER WINDHUND": {
+            "attack": 15,
+            "hp": 200,
+            "xp": 10,
+            "gold": 20,
+            "type": "Unique"
+        },
+        "AUSGESAUGTER ENERGIEWURM": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 1,
+            "gold": 5,
+            "type": "Unique"
+        },
+        "BLUTAPFELBAUM": {
+            "attack": 25,
+            "hp": 12500,
+            "xp": 4,
+            "gold": 34,
+            "type": "Unique"
+        },
+        "BRIEFBESCHWERER-DIEB": {
+            "attack": 8,
+            "hp": 65,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "DIEBSTAHLFALLEN-VERWALTER": {
+            "attack": 42,
+            "hp": 10000,
+            "xp": 2,
+            "gold": 10,
+            "type": "Unique"
+        },
+        "DREIKÖPFIGE WASSERSCHLANGE": {
+            "attack": 25,
+            "hp": 10000,
+            "xp": 7,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "DUNKLER MATSCHREISSER": {
+            "attack": 24,
+            "hp": 10000,
+            "xp": 10,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "DURCHGEKNALLTER NEBELKREISCHER": {
+            "attack": 240,
+            "hp": 35,
+            "xp": 2,
+            "gold": 102,
+            "type": "Unique"
+        },
+        "DÄMONENHUND": {
+            "attack": 20,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "ENTFLOHENER MÖRDER": {
+            "attack": 215,
+            "hp": 9000,
+            "xp": 2,
+            "gold": 5,
+            "type": "Unique"
+        },
+        "ERD-SKELKOS": {
+            "attack": 8,
+            "hp": 300,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "EXPERIMENTAL-PHASENWESEN": {
+            "attack": 123,
+            "hp": 1234567890,
+            "xp": 1,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "FEURIGE TORPON-SCHLANGE": {
+            "attack": 5000,
+            "hp": 25000,
+            "xp": 3,
+            "gold": 150,
+            "type": "Unique"
+        },
+        "FLIEGENDER TODESFARN": {
+            "attack": 28,
+            "hp": 28000,
+            "xp": 20,
+            "gold": 150,
+            "type": "Unique"
+        },
+        "GEFALLENES LICHTWESEN": {
+            "attack": 9,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "GEIST DER BESCHLEUNIGUNG": {
+            "attack": 74,
+            "hp": 760,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER FLAMME": {
+            "attack": 50,
+            "hp": 400,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER HEILENDEN AURA": {
+            "attack": 58,
+            "hp": 520,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER HEILUNG": {
+            "attack": 50,
+            "hp": 400,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER REGENERATION": {
+            "attack": 86,
+            "hp": 940,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER RUHELOSIGKEIT": {
+            "attack": 62,
+            "hp": 580,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DER WÄRME": {
+            "attack": 66,
+            "hp": 640,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DES FROSTES": {
+            "attack": 54,
+            "hp": 460,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DES GESTEINS": {
+            "attack": 78,
+            "hp": 820,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GEIST DES ZORNS": {
+            "attack": 82,
+            "hp": 880,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "GIFTGEIST VON NARUBIA": {
+            "attack": 12,
+            "hp": 17000,
+            "xp": 20,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "GLUTSCHLEIM (UNIQUE-NPC)": {
+            "attack": 316,
+            "hp": 147000,
+            "xp": 0,
+            "gold": 5,
+            "type": "Unique"
+        },
+        "GOLDHORNZIEGE": {
+            "attack": 3,
+            "hp": 1,
+            "xp": 3,
+            "gold": 80,
+            "type": "Unique"
+        },
+        "GOLDKRAKE": {
+            "attack": 10,
+            "hp": 8000,
+            "xp": 4,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "GRABRÄUBER": {
+            "attack": 8,
+            "hp": 120,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "GRABSCHLECKER": {
+            "attack": 4,
+            "hp": 50,
+            "xp": 2,
+            "gold": 70,
+            "type": "Unique"
+        },
+        "GROSSER BLATTALISK": {
+            "attack": 10,
+            "hp": 10000,
+            "xp": 12,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "GROSSER NEBELKREISCHER": {
+            "attack": 25,
+            "hp": 400000,
+            "xp": 5,
+            "gold": 40,
+            "type": "Unique"
+        },
+        "GROSSES EISTENTAKEL": {
+            "attack": 20,
+            "hp": 20000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "GRÜNE ROTORLIBELLE": {
+            "attack": 26,
+            "hp": 50000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "HAKKA DER BRUTALE": {
+            "attack": 64,
+            "hp": 3500,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "HAND DES FEUERS": {
+            "attack": 100,
+            "hp": 10000,
+            "xp": 2,
+            "gold": 120,
+            "type": "Unique"
+        },
+        "HEILENDER BAUM (NPC)": {
+            "attack": 8,
+            "hp": 90,
+            "xp": 1,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "JERODAR-ANFÜHRER": {
+            "attack": 20,
+            "hp": 150000,
+            "xp": 5,
+            "gold": 90,
+            "type": "Unique"
+        },
+        "KNORPEL-MONSTER AUS DRAHT (NPC)": {
+            "attack": 10,
+            "hp": 3000,
+            "xp": 0,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "KOPOLASPINNE": {
+            "attack": 16,
+            "hp": 1000,
+            "xp": 6,
+            "gold": 80,
+            "type": "Unique"
+        },
+        "KURNOTAN - DER DUNKLE MAGIER": {
+            "attack": 14,
+            "hp": 500,
+            "xp": 1,
+            "gold": 20,
+            "type": "Unique"
+        },
+        "KÖNIGSKÄFER": {
+            "attack": 23,
+            "hp": 100000,
+            "xp": 1,
+            "gold": 123,
+            "type": "Unique"
+        },
+        "LEBENDIGE TORPON-SCHLANGE": {
+            "attack": 5000,
+            "hp": 25000,
+            "xp": 3,
+            "gold": 149,
+            "type": "Unique"
+        },
+        "LOLA - DIE HAUSKAWUTZE": {
+            "attack": 2,
+            "hp": 10,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "MAGIER DER DUNKLEN MACHT": {
+            "attack": 8,
+            "hp": 8000,
+            "xp": 12,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "MECHANISCHER GIFTVOGEL": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 3,
+            "gold": 100,
+            "type": "Unique"
+        },
+        "MUTIERTER KOLOA-KÄFER": {
+            "attack": 15,
+            "hp": 1000,
+            "xp": 1,
+            "gold": 150,
+            "type": "Unique"
+        },
+        "MUTTER DER GEYSIR-SCHLUCKER": {
+            "attack": 35,
+            "hp": 5000,
+            "xp": 1,
+            "gold": 24,
+            "type": "Unique"
+        },
+        "NEBELDAMPFGEIST": {
+            "attack": 1381,
+            "hp": 839084,
+            "xp": 15,
+            "gold": 17,
+            "type": "Unique"
+        },
+        "NEBELGEIST ARGARIE": {
+            "attack": 124,
+            "hp": 20000,
+            "xp": 1,
+            "gold": 59,
+            "type": "Unique"
+        },
+        "NEBELGEIST BARGU": {
+            "attack": 15,
+            "hp": 400,
+            "xp": 1,
+            "gold": 60,
+            "type": "Unique"
+        },
+        "NEBELGEIST FRORIE": {
+            "attack": 30,
+            "hp": 5000,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "NEBELGEIST GIRIE": {
+            "attack": 9,
+            "hp": 300,
+            "xp": 1,
+            "gold": 60,
+            "type": "Unique"
+        },
+        "NEBELGEIST MURAHN": {
+            "attack": 5,
+            "hp": 30,
+            "xp": 1,
+            "gold": 75,
+            "type": "Unique"
+        },
+        "NEBELGEIST NAPIRIE": {
+            "attack": 30,
+            "hp": 500,
+            "xp": 1,
+            "gold": 75,
+            "type": "Unique"
+        },
+        "NEBELGEIST NUKARIE": {
+            "attack": 52,
+            "hp": 500000,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "NEBELGEIST SORLIE": {
+            "attack": 21,
+            "hp": 600,
+            "xp": 1,
+            "gold": 60,
+            "type": "Unique"
+        },
+        "NEBELGEIST VIGINUR": {
+            "attack": 50,
+            "hp": 6000,
+            "xp": 1,
+            "gold": 60,
+            "type": "Unique"
+        },
+        "NEBELGEIST WROZIE": {
+            "attack": 40,
+            "hp": 800,
+            "xp": 1,
+            "gold": 75,
+            "type": "Unique"
+        },
+        "NEBELWAL": {
+            "attack": 1175,
+            "hp": 1000000,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "NEBLIGER NEBELKREISCHER": {
+            "attack": 18,
+            "hp": 250,
+            "xp": 2,
+            "gold": 40,
+            "type": "Unique"
+        },
+        "ONUK KULO": {
+            "attack": 127,
+            "hp": 10101,
+            "xp": 4,
+            "gold": 30,
+            "type": "Unique"
+        },
+        "PHASENANOMALIE": {
+            "attack": 45,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "PHASENVERBRENNER": {
+            "attack": 110,
+            "hp": 15000,
+            "xp": 1,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "PIRONER": {
+            "attack": 35,
+            "hp": 10000,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "RANDALIERER": {
+            "attack": 8,
+            "hp": 80,
+            "xp": 1,
+            "gold": 5,
+            "type": "Unique"
+        },
+        "RIESENKRAKE": {
+            "attack": 62,
+            "hp": 15,
+            "xp": 0,
+            "gold": 150,
+            "type": "Unique"
+        },
+        "ROTE LANDKORALLE": {
+            "attack": 10,
+            "hp": 100,
+            "xp": 1,
+            "gold": 5,
+            "type": "Unique"
+        },
+        "ROTEISKORALLE": {
+            "attack": 16,
+            "hp": 12000,
+            "xp": 4,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTEN-EI": {
+            "attack": 67,
+            "hp": 8000,
+            "xp": 1,
+            "gold": 65,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR GORTARI": {
+            "attack": 85,
+            "hp": 30000,
+            "xp": 3,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR JALAKORI": {
+            "attack": 55,
+            "hp": 30000,
+            "xp": 3,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR LOXUTIZORI": {
+            "attack": 10080,
+            "hp": 66666,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR MANTORI": {
+            "attack": 30,
+            "hp": 20000,
+            "xp": 3,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR NOXOMIWORI": {
+            "attack": 4630,
+            "hp": 40000,
+            "xp": 4,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR SURUJANURI": {
+            "attack": 7310,
+            "hp": 50000,
+            "xp": 4,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR TURWAKORI": {
+            "attack": 350,
+            "hp": 30000,
+            "xp": 3,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "SCHATTENKREATUR XY (UNIQUE-NPC)": {
+            "attack": 1,
+            "hp": 1,
+            "xp": 0,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "SCHATZSUCHER (UNIQUE-NPC)": {
+            "attack": 20,
+            "hp": 2000,
+            "xp": 3,
+            "gold": 80,
+            "type": "Unique"
+        },
+        "SCHMIERIGER GESCHÄFTEMACHER": {
+            "attack": 15,
+            "hp": 350,
+            "xp": 1,
+            "gold": 30,
+            "type": "Unique"
+        },
+        "SCHNEEWORAN": {
+            "attack": 8,
+            "hp": 200,
+            "xp": 1,
+            "gold": 10,
+            "type": "Unique"
+        },
+        "SCHWARM-KÖNIGIN": {
+            "attack": 1927,
+            "hp": 92410,
+            "xp": 2,
+            "gold": 100,
+            "type": "Unique"
+        },
+        "SCHWEBENDE GOLDKUTSCHE": {
+            "attack": 7,
+            "hp": 5000,
+            "xp": 2,
+            "gold": 120,
+            "type": "Unique"
+        },
+        "SPEZIALIST FÜR ERZE": {
+            "attack": 5,
+            "hp": 100,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "SPRECHENDE SCHATZTRUHE": {
+            "attack": 1,
+            "hp": 0,
+            "xp": 0,
+            "gold": 0,
+            "type": "Unique"
+        },
+        "STAUBKRIEGER": {
+            "attack": 33,
+            "hp": 200000,
+            "xp": 12,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "STEIN-KOLOSS": {
+            "attack": 35,
+            "hp": 50000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "STEIN-SKELKOS": {
+            "attack": 8,
+            "hp": 120,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "SULA-ECHSE": {
+            "attack": 30,
+            "hp": 30000,
+            "xp": 2,
+            "gold": 150,
+            "type": "Unique"
+        },
+        "TILUA-PFLANZE": {
+            "attack": 36,
+            "hp": 200000,
+            "xp": 7,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "TODESFLOSSEN-FISCH": {
+            "attack": 150,
+            "hp": 500000,
+            "xp": 5,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "TODESGROTTEN-MOLCH": {
+            "attack": 15,
+            "hp": 500,
+            "xp": 1,
+            "gold": 1525,
+            "type": "Unique"
+        },
+        "TÄNZERIN VON BEISPIELUSER": {
+            "attack": 4,
+            "hp": 40,
+            "xp": 0,
+            "gold": 4,
+            "type": "Unique"
+        },
+        "UNTOTER BÜRGERMEISTER": {
+            "attack": 135,
+            "hp": 21000,
+            "xp": 2,
+            "gold": 10,
+            "type": "Unique"
+        },
+        "VATER ALLER STACHELSCHUSS-IGEL": {
+            "attack": 350,
+            "hp": 18000,
+            "xp": 20,
+            "gold": 200,
+            "type": "Unique"
+        },
+        "WAHNSINNIGER WALDSCHLURCH": {
+            "attack": 8,
+            "hp": 120,
+            "xp": 1,
+            "gold": 25,
+            "type": "Unique"
+        },
+        "WASSER-SCHEMEN": {
+            "attack": 35,
+            "hp": 300000,
+            "xp": 20,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "WIESEN-FELSENECHSE": {
+            "attack": 5,
+            "hp": 10000,
+            "xp": 1,
+            "gold": 10,
+            "type": "Unique"
+        },
+        "WETTERFORSCH": {
+            "attack": 100,
+            "hp": 100000000,
+            "xp": 12,
+            "gold": 100,
+            "type": "Unique"
+        },
+        "WETTERKONTROLL-MAGIER": {
+            "attack": 25,
+            "hp": 10000,
+            "xp": 7,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "WOLL-YETI": {
+            "attack": 23,
+            "hp": 2200,
+            "xp": 1,
+            "gold": 86,
+            "type": "Unique"
+        },
+        "WUCHERWURZELBAUM (NPC)": {
+            "attack": 90,
+            "hp": 10000,
+            "xp": 1,
+            "gold": 2,
+            "type": "Unique"
+        },
+        "WÄCHTER DES RAUSCHENDEN FLUSSES": {
+            "attack": 10,
+            "hp": 2000,
+            "xp": 1,
+            "gold": 100,
+            "type": "Unique"
+        },
+        "WÜTENDER STACHELKÄFER": {
+            "attack": 2,
+            "hp": 25,
+            "xp": 1,
+            "gold": 23,
+            "type": "Unique"
+        },
+        "ZAUBERHAFTE TORPON-SCHLANGE": {
+            "attack": 5000,
+            "hp": 25000,
+            "xp": 3,
+            "gold": 149,
+            "type": "Unique"
+        },
+        "ZIELSCHEIBE (NPC)": {
+            "attack": 1,
+            "hp": 40,
+            "xp": 0,
+            "gold": 1,
+            "type": "Unique"
+        },
+        "ÄONENJÄGER": {
+            "attack": 176,
+            "hp": 132435,
+            "xp": 5,
+            "gold": 350,
+            "type": "Unique"
+        }
+    }
+}

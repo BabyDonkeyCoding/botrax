@@ -1,0 +1,992 @@
+{
+    "Arbeitshandschuhe": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 40,
+        "magic": false
+    },
+    "Blutige Axt": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Brotmesser": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dornenstrauch": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 9,
+        "magic": false
+    },
+    "Eisenzange": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 9,
+        "magic": false
+    },
+    "Federboa": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Hörnchen des Teidam-Babys": {
+        "attack": 1,
+        "strength": 2,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "kleiner Holzstock": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 10,
+        "magic": false
+    },
+    "kleiner Keil": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 10,
+        "magic": false
+    },
+    "Kleiner Sandstock": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 2,
+        "magic": true
+    },
+    "Madenstachel": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Nudelholz": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 12,
+        "magic": false
+    },
+    "Silbergabel": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 16,
+        "magic": false
+    },
+    "Wasserbärenkralle": {
+        "attack": 1,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dolch": {
+        "attack": 2,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 130,
+        "magic": false
+    },
+    "Eisenkralle": {
+        "attack": 2,
+        "strength": 3,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 120,
+        "magic": false
+    },
+    "Feuerdolch": {
+        "attack": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "großer Holzstock": {
+        "attack": 2,
+        "strength": 3,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 150,
+        "magic": false
+    },
+    "großer Sandstock": {
+        "attack": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 50,
+        "magic": true
+    },
+    "Langzahn": {
+        "attack": 2,
+        "strength": 3,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Lianenpeitsche": {
+        "attack": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 130,
+        "magic": false
+    },
+    "Onlo-Messer": {
+        "attack": 2,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 125,
+        "magic": false
+    },
+    "Schneemesser": {
+        "attack": 2,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Steinschleuder": {
+        "attack": 2,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 149,
+        "magic": false
+    },
+    "großer Skorpionstachel": {
+        "attack": 3,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Horn des Teidams": {
+        "attack": 3,
+        "strength": 5,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "magischer Giftstachel": {
+        "attack": 3,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 310,
+        "magic": false
+    },
+    "rostiges Schwert": {
+        "attack": 3,
+        "strength": 6,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 360,
+        "magic": false
+    },
+    "Sandschwert": {
+        "attack": 3,
+        "strength": 2,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 100,
+        "magic": true
+    },
+    "Glühender Stock": {
+        "attack": 4,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 90,
+        "magic": true
+    },
+    "magischer Zauberstock": {
+        "attack": 4,
+        "strength": 0,
+        "intelligence": 10,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 350,
+        "magic": false
+    },
+    "Nebelschwert": {
+        "attack": 4,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Serum-Schwert": {
+        "attack": 4,
+        "strength": 4,
+        "intelligence": 7,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 400,
+        "magic": false
+    },
+    "große Axt": {
+        "attack": 5,
+        "strength": 6,
+        "intelligence": 6,
+        "academy": 0,
+        "race": 2,
+        "avg_price": 450,
+        "magic": false
+    },
+    "Robuster Knochen": {
+        "attack": 0,
+        "strength": 4,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": 448,
+        "magic": false
+    },
+    "Rotsandschwert": {
+        "attack": 5,
+        "strength": 6,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": 140,
+        "magic": true
+    },
+    "Silberschwert": {
+        "attack": 5,
+        "strength": 12,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": 610,
+        "magic": false
+    },
+    "Stab der Dunkelheit": {
+        "attack": 5,
+        "strength": 0,
+        "intelligence": 11,
+        "academy": 0,
+        "race": 6,
+        "avg_price": 520,
+        "magic": false
+    },
+    "Vulkanschwert": {
+        "attack": 5,
+        "strength": 8,
+        "intelligence": 10,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Feuerstab": {
+        "attack": 6,
+        "strength": 13,
+        "intelligence": 17,
+        "academy": 0,
+        "race": 6,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Giftstachelkatapult": {
+        "attack": 6,
+        "strength": 10,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": 800,
+        "magic": false
+    },
+    "Goldschwert": {
+        "attack": 6,
+        "strength": 15,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Morgenstern des Serum": {
+        "attack": 6,
+        "strength": 9,
+        "intelligence": 12,
+        "academy": 0,
+        "race": 5,
+        "avg_price": 711,
+        "magic": false
+    },
+    "Sandkanone": {
+        "attack": 6,
+        "strength": 11,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stab des Lichts": {
+        "attack": 6,
+        "strength": 0,
+        "intelligence": 11,
+        "academy": 0,
+        "race": 3,
+        "avg_price": 500,
+        "magic": false
+    },
+    "Gelbpollenschleuder": {
+        "attack": 7,
+        "strength": 14,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Giftdolch der Händler": {
+        "attack": 7,
+        "strength": 30,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 9,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kralle der Dunkelheit": {
+        "attack": 7,
+        "strength": 13,
+        "intelligence": 15,
+        "academy": 0,
+        "race": 5,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kristallstab": {
+        "attack": 7,
+        "strength": 12,
+        "intelligence": 20,
+        "academy": 0,
+        "race": 3,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Sandstab": {
+        "attack": 7,
+        "strength": 5,
+        "intelligence": 7,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Vorschlaghammer": {
+        "attack": 7,
+        "strength": 9,
+        "intelligence": 14,
+        "academy": 0,
+        "race": 2,
+        "avg_price": 980,
+        "magic": false
+    },
+    "Doppelaxt": {
+        "attack": 8,
+        "strength": 13,
+        "intelligence": 16,
+        "academy": 0,
+        "race": 2,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Sandzange": {
+        "attack": 8,
+        "strength": 68,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schwert des Lichts": {
+        "attack": 8,
+        "strength": 65,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stab der fremden Gedanken": {
+        "attack": 8,
+        "strength": 63,
+        "intelligence": 73,
+        "academy": 0,
+        "race": 6,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Giftnadelkeule": {
+        "attack": 9,
+        "strength": 64,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stab der Innovation": {
+        "attack": 9,
+        "strength": 62,
+        "intelligence": 79,
+        "academy": 0,
+        "race": 3,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stachel des Todes": {
+        "attack": 9,
+        "strength": 63,
+        "intelligence": 65,
+        "academy": 0,
+        "race": 5,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dampfkanone": {
+        "attack": 10,
+        "strength": 63,
+        "intelligence": 70,
+        "academy": 0,
+        "race": 2,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Filetiermesser der Untiefen": {
+        "attack": 10,
+        "strength": 68,
+        "intelligence": 75,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Ritualdolch": {
+        "attack": 0,
+        "strength": 12,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stab der Bergwiesen": {
+        "attack": 10,
+        "strength": 5,
+        "intelligence": 5,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Nebelschleuder": {
+        "attack": 11,
+        "strength": 165,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 9,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Feuerelement": {
+        "attack": 13,
+        "strength": 163,
+        "intelligence": 173,
+        "academy": 0,
+        "race": 6,
+        "avg_price": -1,
+        "magic": false
+    },
+    "feurige Sandaxt": {
+        "attack": 13,
+        "strength": 168,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": -1,
+        "magic": false
+    },
+    "funkelndes Donnerschwert": {
+        "attack": 13,
+        "strength": 165,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "giftiger Wurzeldolch": {
+        "attack": 14,
+        "strength": 164,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": -1,
+        "magic": false
+    },
+    "leuchtender Gruftsäbel": {
+        "attack": 14,
+        "strength": 163,
+        "intelligence": 165,
+        "academy": 0,
+        "race": 5,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Mondstab": {
+        "attack": 14,
+        "strength": 162,
+        "intelligence": 179,
+        "academy": 0,
+        "race": 3,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kettenamboss": {
+        "attack": 15,
+        "strength": 163,
+        "intelligence": 170,
+        "academy": 0,
+        "race": 2,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Knochenklinge": {
+        "attack": 16,
+        "strength": 165,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 8,
+        "avg_price": -1,
+        "magic": false
+    },
+    "versteinerter Rindenspeer": {
+        "attack": 20,
+        "strength": 200,
+        "intelligence": 0,
+        "academy": 8000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Dolch der Auftragsmörder": {
+        "attack": 35,
+        "strength": 350,
+        "intelligence": 0,
+        "academy": 28000,
+        "race": -1,
+        "avg_price": 500,
+        "magic": false
+    },
+    "Schachtelmesserblatt": {
+        "attack": 35,
+        "strength": 155,
+        "intelligence": 0,
+        "academy": 0,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Phasenlanze": {
+        "attack": 50,
+        "strength": 250,
+        "intelligence": 0,
+        "academy": 10000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kampflibelle": {
+        "attack": 55,
+        "strength": 250,
+        "intelligence": 0,
+        "academy": 8400,
+        "race": 8,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Silbersteinaxt": {
+        "attack": 60,
+        "strength": 300,
+        "intelligence": 0,
+        "academy": 12000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Axt der Auftragsmörder": {
+        "attack": 70,
+        "strength": 350,
+        "intelligence": 0,
+        "academy": 14000,
+        "race": -1,
+        "avg_price": 6500,
+        "magic": false
+    },
+    "Baru-Schwert": {
+        "attack": 80,
+        "strength": 400,
+        "intelligence": 0,
+        "academy": 16000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Seelenklinge": {
+        "attack": 80,
+        "strength": 400,
+        "intelligence": 0,
+        "academy": 16000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "magische Eiskeule": {
+        "attack": 85,
+        "strength": 450,
+        "intelligence": 0,
+        "academy": 18000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Horn aus Bernstein": {
+        "attack": 90,
+        "strength": 900,
+        "intelligence": 0,
+        "academy": 72000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Säbel der Pironer": {
+        "attack": 90,
+        "strength": 450,
+        "intelligence": 0,
+        "academy": 18000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schattenkralle": {
+        "attack": 99,
+        "strength": 990,
+        "intelligence": 0,
+        "academy": 79200,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "grünes Baru-Schwert": {
+        "attack": 100,
+        "strength": 500,
+        "intelligence": 0,
+        "academy": 20000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "frostige Seelenklinge": {
+        "attack": 102,
+        "strength": 510,
+        "intelligence": 0,
+        "academy": 20400,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kralle des Weltenwandlers": {
+        "attack": 110,
+        "strength": 1100,
+        "intelligence": 0,
+        "academy": 90000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Raptorschlitzer": {
+        "attack": 0,
+        "strength": 700,
+        "intelligence": 0,
+        "academy": 24000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Spindelmesser": {
+        "attack": 118,
+        "strength": 1180,
+        "intelligence": 0,
+        "academy": 94400,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Landquallententakel": {
+        "attack": 120,
+        "strength": 600,
+        "intelligence": 0,
+        "academy": 20000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "eiserne Schmerzschwinge": {
+        "attack": 135,
+        "strength": 675,
+        "intelligence": 0,
+        "academy": 23000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Zweihänder des dunklen Sees": {
+        "attack": 153,
+        "strength": 1530,
+        "intelligence": 0,
+        "academy": 122400,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Weltenspalter": {
+        "attack": 155,
+        "strength": 775,
+        "intelligence": 0,
+        "academy": 31000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Chaossense": {
+        "attack": 175,
+        "strength": 875,
+        "intelligence": 0,
+        "academy": 29500,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "stabile Chaossense": {
+        "attack": 190,
+        "strength": 950,
+        "intelligence": 0,
+        "academy": 31920,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Schmetterklinge": {
+        "attack": 195,
+        "strength": 1950,
+        "intelligence": 0,
+        "academy": 196000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "schwebender Kristalldolch": {
+        "attack": 200,
+        "strength": 1000,
+        "intelligence": 0,
+        "academy": 33600,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Stepto-Waranzahn": {
+        "attack": 230,
+        "strength": 1150,
+        "intelligence": 0,
+        "academy": 39100,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Feuerelement der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 6,
+        "avg_price": -1,
+        "magic": false
+    },
+    "feurige Sandaxt der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 7,
+        "avg_price": -1,
+        "magic": false
+    },
+    "funkelndes Donnerschwert der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "giftiger Wurzeldolch der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 4,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Kettenamboss der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 2,
+        "avg_price": -1,
+        "magic": false
+    },
+    "leuchtender Gruftsäbel der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 5,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Mondstab der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 3,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Nebelschleuder der Furcht": {
+        "attack": 0,
+        "strength": 0,
+        "intelligence": 0,
+        "academy": 0,
+        "race": 9,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Belpharia-Kampfspeer": {
+        "attack": 275,
+        "strength": 1350,
+        "intelligence": 0,
+        "academy": 45400,
+        "race": -1,
+        "avg_price": 42,
+        "magic": true
+    },
+    "Königliche Nebelklinge": {
+        "attack": 0,
+        "strength": 1375,
+        "intelligence": 0,
+        "academy": 46200,
+        "race": -1,
+        "avg_price": -1,
+        "magic": false
+    },
+    "Nebelwalflosse": {
+        "attack": 300,
+        "strength": 3000,
+        "intelligence": 0,
+        "academy": 240000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    },
+    "Frostfeuerklinge": {
+        "attack": 1300,
+        "strength": 6500,
+        "intelligence": 7500,
+        "academy": 650000,
+        "race": -1,
+        "avg_price": -1,
+        "magic": true
+    }
+}
