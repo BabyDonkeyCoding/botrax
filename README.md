@@ -3,6 +3,14 @@
 ## Intro
 Botrax is a bot for the Browsergame [Freewar.de](https://freewar.de). It was created for educational purposes only.
 
+## Why Botrax?
+Botrax is your easy to use bot for Freewar. You can run it on any machine that runs python.
+It will kill NPCs, avoid PVP attacks, collect gold and bring it to the bank, invest your gold in oil, train new abilities (and even buy the books from shops for new abilities), and many more things.
+It is approved over many years by now and has successfully provided a lot of Gold for me and my guild members.
+
+Botrax sends exactly the same requests as your browser to the Freewar server and is therefore not detectable.
+Various anti detections feature are included in the code, see for yourself :)
+
 ## Usage
 - Clone the repository
 - Create a user config in the folder "usr" by copying "/templates/user.json" into it
