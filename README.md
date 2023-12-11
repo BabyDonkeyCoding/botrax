@@ -3,17 +3,20 @@
 ## Intro
 Botrax is a bot for the Browsergame [Freewar.de](https://freewar.de). It was created for educational purposes only.
 
-
 ## Usage
 - Clone the repository
 - Create a user config in the folder "usr" by copying "/templates/user.json" into it
 - run main.py with "--c /usr/{config_name}.json"
+- Botrax will create a "items" and "coordinates" file for each user next to your custom user config
+
+## Community
+In order to further enhance the grouping feature, I am still locking for people work together (debugging ingame)
 
 ## Features
 | Feature  | Enabled |
 |---|---|
 | Kill (Normal) NPCs  |  Yes  |
-| Kill (Normal) NPCs  |  Yes  |
+| Kill (Unique) NPCs  |  Yes  |
 | By user defined consumable items  |  Yes  |
 | Farm for specific items (Pfeil, Wakrudpilz, etc.)  |  Yes  |
 | Repair weapons  |  Yes  |
